@@ -7,6 +7,7 @@ import numpy as np
 import os
 import requests
 from math import radians, sin, cos, sqrt, atan2
+from dotenv import load_dotenv
 
 recommend_api = Blueprint("recommend_api", __name__)
 
@@ -21,8 +22,9 @@ scaler = joblib.load(os.path.join(MODELS_DIR, "scaler.pkl"))
 df = pd.read_csv(os.path.join(DATA_DIR, "heritage_clustered.csv"))
 
 # API Keys
-GOOGLE_API_KEY = "AIzaSyCmDTmBIMU9QquyjZiYpsgnnQ0mg3QkrwA"
-WEATHER_API_KEY = "b611f2e4c820427aa1642014261902"
+load_dotenv()
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
 
 # Helper: Haversine Distance (Straight Distance)
 def haversine(lat1, lon1, lat2, lon2):
