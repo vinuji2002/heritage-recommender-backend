@@ -5,6 +5,7 @@ from geopy.geocoders import Nominatim   # Will not be used now except fallback
 import pandas as pd
 import os
 import requests
+from dotenv import load_dotenv
 
 # Import safety + weather logic from recommend_api
 from api.recommend_api import (
@@ -24,7 +25,8 @@ df_sites = pd.read_csv(sites_path)
 df_events = pd.read_csv(events_path)
 
 # Google API Key
-GOOGLE_API_KEY = "AIzaSyCmDTmBIMU9QquyjZiYpsgnnQ0mg3QkrwA"
+load_dotenv()
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # GOOGLE GEOCODING API
 # Convert GPS → Human-readable address
