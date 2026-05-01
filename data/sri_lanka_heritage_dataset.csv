@@ -1,0 +1,1340 @@
+id,site_id,site_name,event_name,year,description,lat,lon
+1,1,Galle Fort,Dutch Capture of Galle Fort,1640 AD,"Dutch East India Company captured the fort from the Portuguese with support from the Kingdom of Kandy and began Dutch control of Galle.",6.0305,80.2150
+2,1,Galle Fort,British Takeover of Galle Fort,1796 AD,"British forces took control of Galle Fort from the Dutch during the Napoleonic wars and continued using the fort as an administrative and military center.",6.0305,80.2150
+3,1,Galle Fort,Arrival of Chinese Traders,1400 AD,"Chinese merchants exchanged silk and porcelain for Sri Lankan gems and spices at the Galle harbour.",6.0305,80.2150
+
+4,2,Temple of the Tooth Relic,Arrival of Hemamala and Danta,310 AD,"Princess Hemamala and Prince Danta brought the sacred Tooth Relic of Lord Buddha from India to Sri Lanka.",7.2936,80.6413
+5,2,Temple of the Tooth Relic,Kandyan Convention Signed,1815 AD,"The Kandyan Convention of 1815 transferred sovereignty of the Kandyan Kingdom to the British marking the end of the Tooth Relic’s role as a symbol of royal authority.",7.2936,80.6413
+6,2,Temple of the Tooth Relic,Establishment as Royal Shrine,1592 AD,"King Vimaladharmasuriya I enshrined the relic in a special temple in Kandy.",7.2936,80.6413
+
+7,3,Jaya Sri Maha Bodhi,Planting of the Jaya Sri Maha Bodhi,288 BC,"The sacred Bo sapling from Bodh Gaya was planted in Anuradhapura by Sanghamitta Theri.",8.3446,80.3972
+8,3,Jaya Sri Maha Bodhi,Reign of King Devanampiyatissa,247 BC,"King Devanampiyatissa embraced Buddhism and developed Anuradhapura as the first Buddhist capital.",8.3446,80.3972
+9,3,Jaya Sri Maha Bodhi,Construction of Bodhighara,249 AD,"King Vasabha built protective structure and stone railings.",8.3446,80.3972
+
+10,4,Sigiriya Rock Fortress,Construction of Sigiriya Fortress,477 AD,"King Kashyapa built the Sigiriya rock citadel as his royal palace and defensive stronghold.",7.9456,80.7616
+11,4,Sigiriya Rock Fortress,Creation of Sigiriya Frescoes,480 AD,"The world-famous frescoes depicting celestial maidens were painted on the western rock face.",7.9456,80.7603
+12,4,Sigiriya Rock Fortress,Abandonment and Monastery Use,495 AD,"After Kashyapa’s death, Sigiriya reverted to a Buddhist monastery.",7.9456,80.7616
+
+13,5,Anuradhapura Sacred City,Founding of Anuradhapura,377 BC,"King Pandukabhaya establishes the first capital city of Sinhala kingdom.",8.3600,80.4300
+14,5,Anuradhapura Sacred City,Introduction of Buddhism,247 BC,"Mahinda Thero introduced Buddhism to King Devanampiyatissa.",8.3600,80.4300
+15,5,Anuradhapura Sacred City,Construction of Thuparamaya,247 BC,"First Buddhist dagoba built in Sri Lanka.",8.3600,80.4300
+
+16,6,Polonnaruwa Ancient City,Reign of Parakramabahu I,1153 AD,"Golden era marked by irrigation advancements including Parakrama Samudra.",7.9520,81.0048
+17,6,Polonnaruwa Ancient City,Construction of Gal Vihara,1155 AD,"Rock-cut Buddha statues representing pinnacle of Sinhalese sculpture.",7.9520,81.0048
+18,6,Polonnaruwa Ancient City,Decline After Invasion,1214 AD,"Kalinga Magha’s invasion caused abandonment of the capital.",7.9520,81.0048
+
+19,7,Adam’s Peak (Sri Pada),Buddha’s Sacred Footprint,Unknown,"Site revered for footprint believed to be of Lord Buddha.",6.8096,80.4994
+20,7,Adam’s Peak (Sri Pada),Pilgrimage Tradition Begins,1000 AD,"Annual pilgrimage traditions established during ancient monarchs.",6.8096,80.4994
+21,7,Adam’s Peak (Sri Pada),Construction of Summit Shrine,1400 AD,"Kings supported shrine construction on mountain peak.",6.8096,80.4994
+
+22,8,Dambulla Cave Temple,First Cave Monastery Origin,103 BC,"King Valagamba sheltered here during South Indian invasions.",7.8549,80.6506
+23,8,Dambulla Cave Temple,Reclining Buddha Statue Creation,100 BC,"Early cave sculptures carved during Anuradhapura period.",7.8549,80.6506
+24,8,Dambulla Cave Temple,Kandyan Paintings Added,1600 AD,"Kandyan Kingdom added murals and gilded interiors.",7.8549,80.6506
+
+25,9,Kataragama Kiri Vehera,Construction of Stupa,2 AD,"Believed built by King Mahasena or regional rulers.",6.4240,81.3323
+26,9,Kataragama Kiri Vehera,Pilgrimage Rituals Begin,1000 AD,"Became syncretic worship site for Buddhists and Hindus.",6.4240,81.3323
+27,9,Kataragama Kiri Vehera,Royal Patronage Expands,1500 AD,"Kings refurbished and expanded religious site.",6.4240,81.3323
+
+28,10,Ritigala Forest Monastery,Founding of Aranya Monastery,300 BC,"Ancient forest hermitage for ascetic monks.",8.1092,80.6546
+29,10,Ritigala Forest Monastery,Construction of Stone Paths,100 AD,"Massive stone walkways and meditation platforms created.",8.1092,80.6546
+30,10,Ritigala Forest Monastery,Abandonment After Polonnaruwa Collapse,1300 AD,"Monastery fell into disuse after kingdom decline.",8.1092,80.6546
+
+31,11,Mihintale,Meeting of Mahinda Thera & King,247 BC,"Historic encounter where Buddhism was introduced to Sri Lanka.",8.3500,80.5000
+32,11,Mihintale,Construction of Ambasthala Dagoba,247 BC,"Built to mark location of the meeting.",8.3500,80.5000
+33,11,Mihintale,Hospital Complex Built,250 AD,"Ancient hospital with stone beds constructed.",8.3500,80.5000
+
+34,12,Kaludiya Pokuna Monastery,Monastery Establishment,800 AD,"Forest monastery used by monks for meditation.",8.3461,80.5088
+35,12,Kaludiya Pokuna Monastery,Stone Inscriptions Carved,900 AD,"Donor inscriptions indicating royal support.",8.3461,80.5088
+36,12,Kaludiya Pokuna Monastery,Abandonment During Foreign Raids,1300 AD,"Declined due to South Indian invasions.",8.3461,80.5088
+
+37,13,Lankatilaka Vihara,Construction by Parakramabahu I,1150 AD,"Magnificent brick image house with tall Buddha statue.",7.2340,80.5649
+38,13,Lankatilaka Vihara,Kandyan Restorations,1600 AD,"Kandyan kings repaired murals and brick structures.",7.2340,80.5649
+39,13,Lankatilaka Vihara,Collapse of Upper Structure,1800 AD,"Earthquakes and neglect damaged upper brickwork.",7.2340,80.5649
+
+40,14,Rankoth Vehera,Construction by Nissanka Malla,1190 AD,"Large dagoba symbolizing Polonnaruwa’s architectural mastery.",7.9582,81.0033
+41,14,Rankoth Vehera,Restoration Works,1400 AD,"Later rulers repaired cracks and plaster.",7.9582,81.0033
+42,14,Rankoth Vehera,UNESCO Conservation,1980 AD,"Declared part of Polonnaruwa World Heritage Site.",7.9582,81.0033
+
+43,15,Galpotha Stone Inscription,Creation of Giant Inscription,1190 AD,"Queen Kalinga Lokeshvara’s lineage recorded in stone.",7.9477,81.0015
+44,15,Galpotha Stone Inscription,Rediscovery by Archaeologists,1900 AD,"Cleared and documented during British period.",7.9477,81.0015
+45,15,Galpotha Stone Inscription,UNESCO Studies,1990 AD,"Recorded as one of largest ancient inscriptions.",7.9477,81.0015
+
+46,16,Abhayagiri Vihara,Construction of Stupa,100 BC,"Founded by King Valagamba and became major monastic complex.",8.3709,80.3953
+47,16,Abhayagiri Vihara,Chinese Pilgrim Fa-Hien Visit,411 AD,"Fa-Hien documented rituals and monastic life.",8.3709,80.3953
+48,16,Abhayagiri Vihara,Collapse & Restoration,1400 AD,"Earthquakes and wars damaged stupa; partially restored later.",8.3709,80.3953
+
+49,17,Jetavanaramaya,Construction of Massive Stupa,273 AD,"Built by King Mahasena; one of world’s tallest ancient structures.",8.3516,80.4036
+50,17,Jetavanaramaya,Ritualistic Use Peaks,400 AD,"Monks conducted elaborate festivals and gatherings.",8.3516,80.4036
+51,17,Jetavanaramaya,UNESCO Preservation,1990 AD,"Stupa consolidated under conservation projects.",8.3516,80.4036
+
+52,18,Lovamahapaya,Construction of Brazen Palace,150 BC,"Queen Anula and King Dutugemunu built 9-story monastery.",8.3460,80.3979
+53,18,Lovamahapaya,Fire Destruction,100 BC,"Wooden structure destroyed by fire repeatedly.",8.3460,80.3979
+54,18,Lovamahapaya,Final Abandonment,1200 AD,"Ruined after Polonnaruwa period.",8.3460,80.3979
+
+55,19,Ruwanwelisaya,Construction by Dutugemunu,140 BC,"Great stupa representing unification of Sri Lanka.",8.3500,80.3962
+56,19,Ruwanwelisaya,Plaster & Paint Restorations,1800 AD,"Renewed by kings and later by Buddhist monks.",8.3500,80.3962
+57,19,Ruwanwelisaya,Modern Renovation,1940 AD,"Re-plastered and painted white dome seen today.",8.3500,80.3962
+
+58,20,Kelaniya Raja Maha Vihara,Visit of Buddha,500 BC,"Buddha is believed to have visited Kelaniya after enlightenment.",6.9518,79.9185
+59,20,Kelaniya Raja Maha Vihara,Painting Revival by Solius Mendis,1920 AD,"Murals depicting Jataka tales completed.",6.9518,79.9185
+60,20,Kelaniya Raja Maha Vihara,Colonial Restorations,1800 AD,"Temple restored after Portuguese destruction.",6.9518,79.9185
+
+61,21,Isurumuniya,Royal Lovers Sculpture,600 AD,"Famous carving depicting royal couple.",8.3346,80.3906
+62,21,Isurumuniya,Construction by Devanampiyatissa,250 BC,"Temple built for newly ordained monks.",8.3346,80.3906
+63,21,Isurumuniya,Rock Carvings Added,650 AD,"Additional carvings of elephants and horseman added.",8.3346,80.3906
+
+64,22,Thuparamaya,Construction of First Dagoba,247 BC,"Built to enshrine Buddha’s collarbone relic.",8.3553,80.3965
+65,22,Thuparamaya,Pandyan Invasion Damage,1300 AD,"Destroyed during South Indian invasions.",8.3553,80.3965
+66,22,Thuparamaya,Modern Restorations,1850 AD,"Rebuilt and restored to current form.",8.3553,80.3965
+
+67,23,Sandahiru Seya,Modern Monument Construction,2010 AD,"Built to honor war heroes.",8.3383,80.3941
+68,23,Sandahiru Seya,Relic Depositions,2015 AD,"Buddhist relics enshrined during ceremonies.",8.3383,80.3941
+69,23,Sandahiru Seya,Public Opening,2021 AD,"Monument opened for public worship.",8.3383,80.3941
+
+70,24,Matale Aluviharaya,Buddhist Canon Writing,25 AD,"Tripitaka first written on ola leaves.",7.4977,80.6218
+71,24,Matale Aluviharaya,Kandyan Period Renovations,1600 AD,"Kings restored cave complex.",7.4977,80.6218
+72,24,Matale Aluviharaya,Colonial Era Damage,1803 AD,"British–Kandyan war caused partial damage.",7.4977,80.6218
+
+73,25,Koneswaram Temple,Original Temple Construction,300 BC,"Ancient Saivite temple atop Trincomalee cliff.",8.5824,81.2454
+74,25,Koneswaram Temple,Chola Reconstruction,1000 AD,"Chola dynasty rebuilt temple.",8.5824,81.2454
+75,25,Koneswaram Temple,Portuguese Demolition,1622 AD,"Temple pushed into sea during colonial conquest.",8.5824,81.2454
+
+76,26,Lahugala Magul Maha Vihara,Royal Wedding Tradition,100 BC,"Believed to be site of King Kavantissa & Viharamahadevi’s wedding.",6.8675,81.7366
+77,26,Lahugala Magul Maha Vihara,Monastic Expansion,200 AD,"Temple expanded with stone pillars.",6.8675,81.7366
+78,26,Lahugala Magul Maha Vihara,Archaeological Rediscovery,1960 AD,"Site excavated and identified.",6.8675,81.7366
+
+79,27,Yapahuwa Fortress,Construction by King Bhuvanekabahu I,1272 AD,"Served briefly as capital and housed Tooth Relic.",7.8168,80.3107
+80,27,Yapahuwa Fortress,South Indian Invasion,1284 AD,"Pandyans captured relic and plundered city.",7.8168,80.3107
+81,27,Yapahuwa Fortress,Decline After Capital Shift,1300 AD,"Abandoned when capital moved.",7.8168,80.3107
+
+82,28,Embekke Devalaya,Wooden Drummer Carvings,1350 AD,"Renowned for unique, intricate wood carvings.",7.2179,80.5677
+83,28,Embekke Devalaya,Construction During Gampola Era,1350 AD,"Built by King Vikramabahu III.",7.2179,80.5677
+84,28,Embekke Devalaya,Kandyan Restorations,1650 AD,"Kandyan kings extended the hall.",7.2179,80.5677
+
+85,29,Lankatilaka Temple,Construction by King Buwanekabahu IV,1344 AD,"Brick-Vihara blending Dravidian & Sinhalese styles.",7.2340,80.5649
+86,29,Lankatilaka Temple,Painting Additions,1700 AD,"Kandyan murals added to interior walls.",7.2340,80.5649
+87,29,Lankatilaka Temple,Modern Restoration,1960 AD,"Structural reinforcements added.",7.2340,80.5649
+
+88,30,Gadaladeniya Vihara,Construction by Gampola Kings,1344 AD,"Built atop rock using South Indian architectural styles.",7.2575,80.5560
+89,30,Gadaladeniya Vihara,Restoration by King Narendrasinghe,1700 AD,"Temple renovated with Kandyan decorations.",7.2575,80.5560
+90,30,Gadaladeniya Vihara,Monastic Activity Revival,1900 AD,"Monks revived teachings & rituals.",7.2575,80.5560
+
+91,31,Beligala Rajamaha Vihara,Relocation of Tooth Relic,1211 AD,"Tooth Relic housed here during Magha invasions.",7.2678,80.2713
+92,31,Beligala Rajamaha Vihara,Construction of Image House,1200 AD,"Kings built chamber for relic.",7.2678,80.2713
+93,31,Beligala Rajamaha Vihara,Decline During Polonnaruwa Fall,1300 AD,"Site abandoned by monks.",7.2678,80.2713
+
+94,32,Sela Cetiya,Construction Under King Lajjitissa,119 BC,"Small stupa built near Mihintale stairway.",8.3513,80.5178
+95,32,Sela Cetiya,Ritual Worship Period,300 AD,"Site of ritualistic ceremonies by monks.",8.3513,80.5178
+96,32,Sela Cetiya,Archaeological Excavation,1950 AD,"Cleared & documented by archaeology dept.",8.3513,80.5178
+
+97,33,Kasagala Raja Maha Vihara,Ancient Monastery Establishment,200 BC,"Early Buddhist temple with inscriptions.",6.1353,80.8129
+98,33,Kasagala Raja Maha Vihara,Stone Pillars Added,200 AD,"Pillars indicate ancient image houses.",6.1353,80.8129
+99,33,Kasagala Raja Maha Vihara,Modern Restorations,1950 AD,"Temple restored by local monks.",6.1353,80.8129
+
+100,34,Tissamaharama Stupa,Construction by Kavan Tissa,200 BC,"Large stupa built in Ruhuna Kingdom.",6.2798,81.2915
+
+101,35,Kataragama Maha Devalaya,Origin of Shrine,100 AD,"Shrine dedicated to God Kataragama, worshiped by Buddhists and Hindus.",6.4185,81.3333
+102,35,Kataragama Maha Devalaya,Devala Festival Establishment,1400 AD,"Annual Esala festival expanded under Kandyan kings.",6.4185,81.3333
+103,35,Kataragama Maha Devalaya,Pilgrim Route Development,1950 AD,"Traditional Pada Yatra strengthened after independence.",6.4185,81.3333
+
+104,36,Sithulpawwa Rajamaha Vihara,Construction by King Kavantissa,200 BC,"Used as meditation monastery for 12,000 monks.",6.3875,81.4506
+105,36,Sithulpawwa Rajamaha Vihara,Rock Inscriptions Added,100 AD,"Donor inscriptions indicate royal patronage.",6.3875,81.4506
+106,36,Sithulpawwa Rajamaha Vihara,Archaeological Excavation,1960 AD,"Many caves and stupas unearthed.",6.3875,81.4506
+
+107,37,Baduraliya Cave Monastery,Monastic Use Begins,300 AD,"Cave complex used by forest monks.",6.3100,80.1356
+108,37,Baduraliya Cave Monastery,Inscriptions Added,500 AD,"Rock inscriptions referencing hermit monks.",6.3100,80.1356
+109,37,Baduraliya Cave Monastery,Rediscovered,1950 AD,"Documented during archaeological surveys.",6.3100,80.1356
+
+110,38,Dedigama Kota Vehera,Construction of Kota Stupa,100 BC,"Massive circular stupa attributed to King Parakramabahu I (birthplace).",7.2085,80.2629
+111,38,Dedigama Kota Vehera,Underground Relic Chamber Found,1952 AD,"Archaeologists discovered relic casket and gold items.",7.2085,80.2629
+112,38,Dedigama Kota Vehera,Conservation Project,1980 AD,"Stabilization and museum establishment.",7.2085,80.2629
+
+113,39,Deniyaya Pattini Devalaya,Construction by Local Chiefs,1500 AD,"Shrine dedicated to goddess Pattini in southern highlands.",6.3390,80.5580
+114,39,Deniyaya Pattini Devalaya,Festival Traditions Begin,1700 AD,"Annual rituals introduced by village leaders.",6.3390,80.5580
+115,39,Deniyaya Pattini Devalaya,Restoration,1950 AD,"Shrine reconstructed due to weather damage.",6.3390,80.5580
+
+116,40,Rajagala Monastery,Founding of Aranya Senasana,300 BC,"Monastery belonging to early forest-dwelling monks.",7.4907,81.6173
+117,40,Rajagala Monastery,Bronze Relic Discovery,1958 AD,"Relic casket found at site.",7.4907,81.6173
+118,40,Rajagala Monastery,Inscriptions Documented,1960 AD,"Over 60 cave inscriptions identified.",7.4907,81.6173
+
+119,41,Menikdena Viharaya,Construction of Ancient Temple,700 AD,"Temple built near Matale hills.",7.7666,80.6403
+120,41,Menikdena Viharaya,Monastic Activity Peaks,900 AD,"Flourished as meditation center.",7.7666,80.6403
+121,41,Menikdena Viharaya,Rediscovery,1948 AD,"Archaeology Dept. began conservation.",7.7666,80.6403
+
+122,42,Bambaragala Raja Maha Vihara,Ancient Caves Occupied,100 BC,"Forest caves shelter ancient monks.",7.2891,80.7607
+123,42,Bambaragala Raja Maha Vihara,Kandyan Mural Work,1700 AD,"Temple walls decorated with Kandyan paintings.",7.2891,80.7607
+124,42,Bambaragala Raja Maha Vihara,Restoration Work,1970 AD,"Conservation of murals and shrine.",7.2891,80.7607
+
+125,43,Kokebe Raja Maha Vihara,Foundation of Temple,200 BC,"Built during early Anuradhapura period.",8.5217,80.7431
+126,43,Kokebe Raja Maha Vihara,Stone Carvings Added,800 AD,"Carvings added by regional rulers.",8.5217,80.7431
+127,43,Kokebe Raja Maha Vihara,Modern Conservation,1990 AD,"Temple protected by archaeology dept.",8.5217,80.7431
+
+128,44,Kotte Rajamaha Vihara,Construction in Kotte Kingdom,1400 AD,"Built under Parakramabahu VI.",6.8814,79.9043
+129,44,Kotte Rajamaha Vihara,Portuguese Damage,1550 AD,"Partially destroyed during battles.",6.8814,79.9043
+130,44,Kotte Rajamaha Vihara,Restoration Works,1900 AD,"Repaired by devotees.",6.8814,79.9043
+
+131,45,Rajamaha Vihara Ridigama,Sacred Silver Discovery,178 AD,"Silver ore used for Ruwanwelisaya donated here.",7.7580,80.5430
+132,45,Rajamaha Vihara Ridigama,Kandyan Renovations,1600 AD,"Kings built image houses and walls.",7.7580,80.5430
+133,45,Rajamaha Vihara Ridigama,Modern Restoration,1950 AD,"Temple strengthened.",7.7580,80.5430
+
+134,46,Nagadeepa Viharaya,Buddha’s Visit,500 BC,"Buddha visited to settle dispute between Naga kings.",9.6166,79.7667
+135,46,Nagadeepa Viharaya,Temple Reconstruction,300 AD,"Dagoba built by early rulers.",9.6166,79.7667
+136,46,Nagadeepa Viharaya,Renovation After War,2010 AD,"Temple renovated and re-opened.",9.6166,79.7667
+
+137,47,Doramadalawa Monastery,Construction Period,900 AD,"Used as forest monastery during medieval times.",7.9200,80.6400
+138,47,Doramadalawa Monastery,Stone Steps Carved,1000 AD,"Access pathways created.",7.9200,80.6400
+139,47,Doramadalawa Monastery,Rediscovery,1980 AD,"Caves recorded by archaeology dept.",7.9200,80.6400
+
+140,48,Kanneliya Forest Monastery,Creation of Forest Hermitage,1200 AD,"Forest monks meditated in caves.",6.2365,80.3798
+141,48,Kanneliya Forest Monastery,Usage Decline,1700 AD,"Forest hermitage abandoned gradually.",6.2365,80.3798
+142,48,Kanneliya Forest Monastery,Modern Rediscovery,1985 AD,"Site surveyed during forestry mapping.",6.2365,80.3798
+
+143,49,Bundala Ancient Stupa,Construction by Local Rulers,100 BC,"Buddhist stupa built in southern dry zone.",6.1970,81.1880
+144,49,Bundala Ancient Stupa,Rediscovery During Sanctuary Mapping,1969 AD,"Found while establishing Bundala Sanctuary.",6.1970,81.1880
+145,49,Bundala Ancient Stupa,Conservation,2000 AD,"Archaeology department restored mound.",6.1970,81.1880
+
+146,50,Dorawaka Lena (Cave Temple),Monastic Occupation,300 BC,"Pre-Buddhist cave modified by monks.",7.3220,80.2000
+147,50,Dorawaka Lena (Cave Temple),Rock Art Found,200 AD,"Ancient drawings identified.",7.3220,80.2000
+148,50,Dorawaka Lena (Cave Temple),Modern Excavation,1990 AD,"Archaeologists found tools & pottery.",7.3220,80.2000
+
+149,51,Arankale Monastery,Forest Monastic Foundation,700 AD,"Built as meditation center.",7.8120,80.4740
+150,51,Arankale Monastery,Stone Balustrade Construction,900 AD,"Unique balustrades added to shrine rooms.",7.8120,80.4740
+151,51,Arankale Monastery,Conservation Project,1975 AD,"Restored pathways and ponds.",7.8120,80.4740
+
+152,52,Ella Ravana Temple,Legend of Ravana,1000 AD,"Site associated with Ravana worship.",6.8667,81.0466
+153,52,Ella Ravana Temple,Cave Worship Begins,1200 AD,"Shrine expanded in medieval era.",6.8667,81.0466
+154,52,Ella Ravana Temple,Festival Established,1800 AD,"Local communities created annual rituals.",6.8667,81.0466
+
+155,53,Maligatenna Raja Maha Vihara,Temple Establishment,1500 AD,"Used as refuge for monks during Portuguese era.",7.0310,80.0890
+156,53,Maligatenna Raja Maha Vihara,Underground Tunnels Used,1550 AD,"Tunnels linked to nearby cave temples.",7.0310,80.0890
+157,53,Maligatenna Raja Maha Vihara,Restoration,1950 AD,"Temple reconstructed after neglect.",7.0310,80.0890
+
+158,54,Ussangoda Sacred Area,Legend of Hanuman,unknown,"Believed scorched by Hanuman during Ramayana tale.",6.0710,80.8870
+159,54,Ussangoda Sacred Area,Fishing Rituals Begin,1500 AD,"Local fishermen performed blessings here.",6.0710,80.8870
+160,54,Ussangoda Sacred Area,Declared Archaeological Reserve,2000 AD,"Protected due to unique soil and legends.",6.0710,80.8870
+
+161,55,Sera Ella Monastery,Monks Occupy Caves,300 AD,"Meditation caves behind waterfall.",7.6100,80.8500
+162,55,Sera Ella Monastery,Shrine Construction,900 AD,"Small brick shrine built near falls.",7.6100,80.8500
+163,55,Sera Ella Monastery,Rediscovery,1960 AD,"Survey teams documented site.",7.6100,80.8500
+
+164,56,Beli Lena Cave,Prehistoric Human Settlement,34000 BC,"Homo sapiens fossils found here.",6.8167,80.2833
+165,56,Beli Lena Cave,Stone Tool Discovery,30000 BC,"Tools indicating early human habitation found.",6.8167,80.2833
+166,56,Beli Lena Cave,Research Excavations,1984 AD,"Extensive archaeological dig conducted.",6.8167,80.2833
+
+167,57,Potgul Vihara Polonnaruwa,Library Monastery Construction,1150 AD,"Believed to be library of King Parakramabahu.",7.9397,81.0025
+168,57,Potgul Vihara Polonnaruwa,Stone Book Stand Creation,1153 AD,"Unique circular structure built.",7.9397,81.0025
+169,57,Potgul Vihara Polonnaruwa,Rediscovery,1900 AD,"Site mapped by British archaeologists.",7.9397,81.0025
+
+170,58,Panduwasnuwara Palace,Construction of Palace,1153 AD,"Built by King Parakramabahu VI.",7.4139,80.0403
+171,58,Panduwasnuwara Palace,Founding of City,1150 AD,"Used briefly as capital.",7.4139,80.0403
+172,58,Panduwasnuwara Palace,Excavations Begin,1950 AD,"Ruins uncovered including moonstones.",7.4139,80.0403
+
+173,59,Nilagala Hermitage,Forest Monastic Use,900 AD,"Monks meditated in remote eastern hills.",7.0550,81.6000
+174,59,Nilagala Hermitage,Ritual Blessings, AD,"Local rulers patronized site.",7.0550,81.6000
+175,59,Nilagala Hermitage,Modern Rediscovery,1970 AD,"Survey identified stupas and caves.",7.0550,81.6000
+
+176,60,Wariyapola Clock Tower,Sri Lankan Air Landing Legend,400 AD,"Believed Wariyapola Deviyo landed chariot here.",7.6040,80.2410
+177,60,Wariyapola Clock Tower,Portuguese Era Use,1600 AD,"Town became trading hub.",7.6040,80.2410
+178,60,Wariyapola Clock Tower,Tower Construction,1880 AD,"Clock tower built during colonial era.",7.6040,80.2410
+
+179,61,Henarathgoda Botanical Garden,Rubber Tree Introduction,1876 AD,"First rubber tree planted here by British.",7.1440,80.0040
+180,61,Henarathgoda Botanical Garden,Botanical Research Begins,1880 AD,"Used as research station.",7.1440,80.0040
+181,61,Henarathgoda Botanical Garden,National Park Listing,2016 AD,"Recognized due to historical trees.",7.1440,80.0040
+
+182,62,Ambuluwawa Tower,Construction of Multi-Religious Complex,2000 AD,"Symbol of religious harmony built by local council.",7.1615,80.5473
+183,62,Ambuluwawa Tower,Environmental Conservation Zone,2006 AD,"Declared biodiversity hotspot.",7.1615,80.5473
+184,62,Ambuluwawa Tower,Public Opening,2009 AD,"Open to tourists.",7.1615,80.5473
+
+185,63,Monaragala Maligawila Buddha Statue,Construction of Standing Statue,700 AD,"Tall limestone Buddha statue carved.",6.7380,81.3430
+186,63,Monaragala Maligawila Buddha Statue,Collapse & Reconstruction,1980 AD,"Statue restored after collapse.",6.7380,81.3430
+187,63,Monaragala Maligawila Buddha Statue,Archaeological Surveys,1970 AD,"Uncovered inscriptions and ruins.",6.7380,81.3430
+
+188,64,Dematamal Viharaya,Royal Reconciliation Legend,100 BC,"Prince Dutugemunu reconciled with his father here.",6.7200,81.0970
+189,64,Dematamal Viharaya,Temple Expansion,300 AD,"Kings added stupas & image houses.",6.7200,81.0970
+190,64,Dematamal Viharaya,Restoration,1950 AD,"Local monks rebuilt structures.",6.7200,81.0970
+
+191,65,Weheragala Monastery,Monastic Settlement,800 AD,"Monks lived in natural caves.",7.9500,80.7200
+192,65,Weheragala Monastery,Stone Steps Constructed,900 AD,"Access steps carved into rock.",7.9500,80.7200
+193,65,Weheragala Monastery,Rediscovery,1972 AD,"Survey team recorded ruins.",7.9500,80.7200
+
+194,66,Bibile Maligawila Region,Ancient Monastery Use,700 AD,"Used by monks during southern rule.",7.2000,81.2000
+195,66,Bibile Maligawila Region,Statue Fragments Found,1973 AD,"Fragments of statues discovered.",7.2000,81.2000
+196,66,Bibile Maligawila Region,Conservation,1990 AD,"Site protected by archaeology dept.",7.2000,81.2000
+
+197,67,Badulla Bogoda Bridge,Construction of Wooden Bridge,1600 AD,"Oldest surviving wooden bridge in Sri Lanka.",6.9810,81.0460
+198,67,Badulla Bogoda Bridge,Use During Kandyan Era,1700 AD,"Bridge used as royal route.",6.9810,81.0460
+199,67,Badulla Bogoda Bridge,Restoration,1990 AD,"Wooden beams reinforced.",6.9810,81.0460
+
+200,68,Haldummulla Portuguese Fort,Construction by Portuguese,1615 AD,"Fort built to monitor highland routes.",6.7580,80.8920
+
+201,68,Haldummulla Portuguese Fort,Occupation by Dutch,1658 AD,"Dutch forces took control of upland outpost.",6.7580,80.8920
+202,68,Haldummulla Portuguese Fort,Archaeological Survey,1998 AD,"Ruins mapped and documented.",6.7580,80.8920
+
+203,69,Kapugala Monastery,Founding of Meditation Caves,100 BC,"Ancient rock caves used by monks.",7.8000,80.7000
+204,69,Kapugala Monastery,Carving of Inscriptions,200 AD,"Early Brahmi inscriptions discovered.",7.8000,80.7000
+205,69,Kapugala Monastery,Conservation,1990 AD,"Temple caves cleaned & preserved.",7.8000,80.7000
+
+206,70,Thanthirimale Sacred Area,Arrival of Arahat Mahinda,250 BC,"Tradition states Mahinda Thera rested here.",8.6000,80.1833
+207,70,Thanthirimale Sacred Area,Temple Construction,300 AD,"Stupa and shrine room built.",8.6000,80.1833
+208,70,Thanthirimale Sacred Area,Bodhi Tree Planting,200 AD,"Sapling brought from Anuradhapura.",8.6000,80.1833
+
+209,71,Thiriyaya Girihandu Seya,Construction by Merchant Brothers,300 BC,"Built by Tapassu & Bhalluka offering first gifts to Buddha.",8.8500,81.0330
+210,71,Thiriyaya Girihandu Seya,Stupa Expansion,700 AD,"Stupa enlarged during Anuradhapura era.",8.8500,81.0330
+211,71,Thiriyaya Girihandu Seya,Conservation,1970 AD,"Structured repaired under archaeology dept.",8.8500,81.0330
+
+212,72,Kudarangala Monastery,Ancient Cave Settlement,150 BC,"Sheltered monks in deep southern forest.",6.2750,81.1830
+213,72,Kudarangala Monastery,Inscriptions Found,200 AD,"Cave inscriptions indicate ancient donors.",6.2750,81.1830
+214,72,Kudarangala Monastery,Rediscovery,1985 AD,"Survey teams rediscovered ruins.",6.2750,81.1830
+
+215,73,Tantirimale Museum,Establishment,2001 AD,"Modern museum built near sacred area.",8.6000,80.1830
+216,73,Tantirimale Museum,Artifact Collection,2005 AD,"Stone tools and statues stored.",8.6000,80.1830
+217,73,Tantirimale Museum,Heritage Promotion,2015 AD,"Local exhibitions began.",8.6000,80.1830
+
+218,74,Seruwila Mangala Raja Maha Viharaya,Construction by King Kavantissa,200 BC,"Built to store sacred relics.",8.4500,81.2833
+219,74,Seruwila Mangala Raja Maha Viharaya,Reconstruction,1930 AD,"Temple rebuilt through public donations.",8.4500,81.2833
+220,74,Seruwila Mangala Raja Maha Viharaya,Declared Sacred Area,1962 AD,"Recognized by govt as historic site.",8.4500,81.2833
+
+221,75,Kilinochchi Ancient Ruins,Monastic Use,1000 AD,"Remains of medieval monastery uncovered.",9.3730,80.3990
+222,75,Kilinochchi Ancient Ruins,Pillars Discovered,1950 AD,"Granite pillars identified during surveys.",9.3730,80.3990
+223,75,Kilinochchi Ancient Ruins,Restoration,2010 AD,"Site preserved after conflict period.",9.3730,80.3990
+
+224,76,Mannar Fort,Construction by Portuguese,1560 AD,"Built to protect pearl fisheries.",8.9760,79.9090
+225,76,Mannar Fort,Strengthened by Dutch,1696 AD,"Walls reinforced and bastions added.",8.9760,79.9090
+226,76,Mannar Fort,British Administration,1800 AD,"Used as administrative center.",8.9760,79.9090
+
+227,77,Thanthirimale Stone Buddha Carving,Creation of Statue,700 AD,"Large seated statue carved into cliff.",8.6000,80.1830
+228,77,Thanthirimale Stone Buddha Carving,Weathering Damage,1500 AD,"Statue exposed to harsh climate.",8.6000,80.1830
+229,77,Thanthirimale Stone Buddha Carving,Modern Preservation,1990 AD,"Surface chemical protection applied.",8.6000,80.1830
+
+230,78,Nagadeepa Chaitya Construction,Stupa Building Begins,300 AD,"Historic stupa constructed over earlier site.",9.5100,79.7800
+231,78,Nagadeepa Chaitya Construction,Renovation by Kings,1500 AD,"Restored during Jaffna kingdom era.",9.5100,79.7800
+232,78,Nagadeepa Chaitya Construction,Post-War Reconstruction,2011 AD,"Restored after civil conflict.",9.5100,79.7800
+
+233,79,Kadurupokuna Monastery,Founding Period,200 BC,"Forest monks meditated in caves.",6.5400,81.0000
+234,79,Kadurupokuna Monastery,Stupa Construction,500 AD,"Brick stupa built near cave shelter.",6.5400,81.0000
+235,79,Kadurupokuna Monastery,Rediscovery,1995 AD,"Artifacts found in abandoned shrines.",6.5400,81.0000
+
+236,80,Gona Kanda Monastery,Monastic Usage,100 AD,"Used as mountain hermitage.",6.4300,80.4000
+237,80,Gona Kanda Monastery,Wall Paintings Added,1400 AD,"Murals painted during Kandyan era.",6.4300,80.4000
+238,80,Gona Kanda Monastery,Conservation,1982 AD,"Temple caves reinforced.",6.4300,80.4000
+
+239,81,Egodagama Ancient Temple,Monks Reside,300 AD,"Used as local monastery.",6.8800,80.1300
+240,81,Egodagama Ancient Temple,Stupa Restoration,1200 AD,"Rebuilt by local rulers.",6.8800,80.1300
+241,81,Egodagama Ancient Temple,Rediscovery,1960 AD,"Temple ruins documented.",6.8800,80.1300
+
+242,82,Palapathwala Ancient Temple,Founding of Shrine,500 AD,"Built during early medieval period.",7.4700,80.6400
+243,82,Palapathwala Ancient Temple,Murals Added,1400 AD,"Decorated with Kandyan-style paintings.",7.4700,80.6400
+244,82,Palapathwala Ancient Temple,Conservation,1980 AD,"Protected under archaeology act.",7.4700,80.6400
+
+245,83,Atadage Polonnaruwa,Temple of Tooth Construction,1070 AD,"Built by King Vijayabahu I.",7.9400,81.0000
+246,83,Atadage Polonnaruwa,Gold Relic Chamber Added,1100 AD,"Precious relics stored.",7.9400,81.0000
+247,83,Atadage Polonnaruwa,Archaeological Excavation,1900 AD,"British archaeologists exposed ruins.",7.9400,81.0000
+
+248,84,Hetadage Polonnaruwa,Construction of Relic House,1153 AD,"Built by Parakramabahu I.",7.9400,81.0020
+249,84,Hetadage Polonnaruwa,Stone Carving Work,1155 AD,"Ornamental carvings added.",7.9400,81.0020
+250,84,Hetadage Polonnaruwa,Restoration,1945 AD,"Ruins preserved.",7.9400,81.0020
+
+251,85,Gal Potha (Stone Book),Inscription Creation,1150 AD,"Contains long inscription praising King Nissanka Malla.",7.9410,81.0010
+252,85,Gal Potha (Stone Book),Transport of Monolith,1150 AD,"Massive stone transported from Mihintale.",7.9410,81.0010
+253,85,Gal Potha (Stone Book),Conservation,1980 AD,"Surface cleaned & protected.",7.9410,81.0010
+
+254,86,Lankatilaka Polonnaruwa,Construction,1150 AD,"Larger shrine built by Parakramabahu I.",7.9380,81.0015
+255,86,Lankatilaka Polonnaruwa,Giant Buddha Statue Added,1153 AD,"Standing statue placed inside.",7.9380,81.0015
+256,86,Lankatilaka Polonnaruwa,Restoration,1970 AD,"Walls reinforced.",7.9380,81.0015
+
+257,87,Thivanka Image House,Construction,1155 AD,"Named after 'three-bend' Buddha statue.",7.9375,81.0050
+258,87,Thivanka Image House,Mural Paintings Added,1155 AD,"Colorful murals painted inside.",7.9375,81.0050
+259,87,Thivanka Image House,Restoration,2010 AD,"Murals protected with modern coatings.",7.9375,81.0050
+
+260,88,Rankoth Vehera,Construction by Nissanka Malla,1190 AD,"Large stupa symbolizing Polonnaruwa era.",7.9460,81.0000
+261,88,Rankoth Vehera,Stone Paving Added,1200 AD,"Courtyard paved for pilgrims.",7.9460,81.0000
+262,88,Rankoth Vehera,Renovation,1980 AD,"Dome structure strengthened.",7.9460,81.0000
+
+263,89,Kiri Vehera Polonnaruwa,Stupa Construction,1150 AD,"Queen Subhadra built white stupa.",7.9465,81.0008
+264,89,Kiri Vehera Polonnaruwa,Rediscovery,1820 AD,"Found buried in jungle.",7.9465,81.0008
+265,89,Kiri Vehera Polonnaruwa,Restoration,1970 AD,"Brickwork preserved.",7.9465,81.0008
+
+266,90,Potgul Vihara Monastic Cells,Construction of Cells,1150 AD,"Monks used circular meditation rooms.",7.9390,81.0020
+267,90,Potgul Vihara Monastic Cells,Roof Decay,1500 AD,"Original wooden roofs collapsed.",7.9390,81.0020
+268,90,Potgul Vihara Monastic Cells,Archaeological Cleaning,1960 AD,"Debris removed revealing chambers.",7.9390,81.0020
+
+269,91,Medirigiriya Vatadage,Construction of Vatadage,700 AD,"Circular relic house with stone pillars.",8.1010,81.0970
+270,91,Medirigiriya Vatadage,Pillar Additions,900 AD,"Outer ring pillars added.",8.1010,81.0970
+271,91,Medirigiriya Vatadage,Conservation,1970 AD,"Complex restored.",8.1010,81.0970
+
+272,92,Mihintale Ambasthala Dagoba,Construction,300 AD,"Built to mark meeting place of Mahinda Thera and King Devanampiyatissa.",8.3500,80.5167
+273,92,Mihintale Ambasthala Dagoba,Stairway Construction,800 AD,"Stone stairway built by rulers.",8.3500,80.5167
+274,92,Mihintale Ambasthala Dagoba,Renovation,1950 AD,"Whitewashed dome restored.",8.3500,80.5167
+
+275,93,Mihintale Kantaka Chetiya,Construction of Stupa,150 AD,"One of earliest stupas with ornate carvings.",8.3500,80.5200
+276,93,Mihintale Kantaka Chetiya,Elephant Frieze Added,300 AD,"Decorative stone band carved.",8.3500,80.5200
+277,93,Mihintale Kantaka Chetiya,Conservation,1980 AD,"Restoration work done.",8.3500,80.5200
+
+278,94,Mihintale Monastery Complex,Formation of Monastery,200 BC,"Cradle of Buddhism in Sri Lanka.",8.3500,80.5160
+279,94,Mihintale Monastery Complex,Teaching Activity,100 AD,"Monks taught scriptures.",8.3500,80.5160
+280,94,Mihintale Monastery Complex,Restoration,1970 AD,"Ruins conserved.",8.3500,80.5160
+
+281,95,Kasagala Raja Maha Vihara,Founding of Temple,100 BC,"Built during early Anuradhapura period.",6.0540,80.7340
+282,95,Kasagala Raja Maha Vihara,Kasagala Rock Inscription,100 AD,"Inscription referencing donations discovered.",6.0540,80.7340
+283,95,Kasagala Raja Maha Vihara,Restoration,1950 AD,"Temple rebuilt using village donations.",6.0540,80.7340
+
+284,96,Kirinda Rajamaha Viharaya,Legend of Queen Viharamahadevi,200 BC,"Queen washed ashore at Kirinda.",6.2130,81.3310
+285,96,Kirinda Rajamaha Viharaya,Temple Construction,600 AD,"Shrine room built in her honor.",6.2130,81.3310
+286,96,Kirinda Rajamaha Viharaya,Renovation,2000 AD,"Temple restored after tsunami.",6.2130,81.3310
+
+287,97,Yudaganawa Stupa,Construction by King Dutugemunu,100 BC,"Built after battle between princes.",6.7050,81.1400
+288,97,Yudaganawa Stupa,Expansion Period,300 AD,"Stupa enlarged during medieval period.",6.7050,81.1400
+289,97,Yudaganawa Stupa,Modern Restoration,2012 AD,"Major conservation completed.",6.7050,81.1400
+
+290,98,Kiri Vehera Kataragama,Buddha’s Visit Tradition,500 AD,"Believed to mark Buddha’s visit to Kataragama.",6.4130,81.3330
+291,98,Kiri Vehera Kataragama,Stupa Construction,600 AD,"Large stupa built by regional kings.",6.4130,81.3330
+292,98,Kiri Vehera Kataragama,Renovation,1980 AD,"Restored dome and courtyard.",6.4130,81.3330
+
+293,99,Dunhinda Waterfall Ruins,Monastic Buildings,1000 AD,"Ruins near waterfall used by monks.",7.0000,81.0667
+294,99,Dunhinda Waterfall Ruins,Ritual Use,1400 AD,"Shrines built by villagers.",7.0000,81.0667
+295,99,Dunhinda Waterfall Ruins,Rediscovery,1960 AD,"Documented by archaeologists.",7.0000,81.0667
+
+296,100,Aluwihare Rock Temple,Construction Begins,900 AD,"Important cave temple in Matale.",7.4700,80.6060
+297,100,Aluwihare Rock Temple,Tripitaka Writing,1600 AD,"Buddhist scriptures written on ola leaves.",7.4700,80.6060
+298,100,Aluwihare Rock Temple,Modern Restoration,1980 AD,"Temple complex restored.",7.4700,80.6060
+
+299,101,Manal Aru Ancient Ruins,Early Settlement,1000 AD,"Ruins indicate early Tamil-Buddhist coexistence.",8.4000,80.9500
+300,101,Manal Aru Ancient Ruins,Stone Pillars Found,1955 AD,"Pillars and foundations excavated.",8.4000,80.9500
+
+301,102,Somawathiya Chaitya,Construction by Princess Somawathi,200 BC,"Built to enshrine Buddha’s relic.",8.0000,81.1500
+302,102,Somawathiya Chaitya,Forest Monastery Expansion,300 AD,"Monastery expanded during Anuradhapura era.",8.0000,81.1500
+303,102,Somawathiya Chaitya,Modern Restoration,1960 AD,"Temple rebuilt after abandonment.",8.0000,81.1500
+
+304,103,Deegawapi Stupa,Construction by Arahat Mahinda,200 BC,"Built during early Buddhist propagation.",6.9870,81.7350
+305,103,Deegawapi Stupa,King Saddhatissa Renovation,100 AD,"Kings supported expansion.",6.9870,81.7350
+306,103,Deegawapi Stupa,Conservation Work,1975 AD,"Archaeology Dept restored structure.",6.9870,81.7350
+
+307,104,Persian Wheel Well (Batticaloa),Construction by Arab Traders,900 AD,"Mechanical water lifting system built.",7.7167,81.7000
+308,104,Persian Wheel Well (Batticaloa),Irrigation Usage,1000 AD,"Well used for farming irrigation.",7.7167,81.7000
+309,104,Persian Wheel Well (Batticaloa),Recognition as Heritage,2000 AD,"Declared a unique cultural monument.",7.7167,81.7000
+
+310,105,Batticaloa Portuguese Fort,Construction by Portuguese,1628 AD,"Built for defense against Dutch.",7.7170,81.7010
+311,105,Batticaloa Portuguese Fort,Dutch Capture,1638 AD,"Dutch forces captured & modified fort.",7.7170,81.7010
+312,105,Batticaloa Portuguese Fort,British Military Use,1800 AD,"Used as administrative center.",7.7170,81.7010
+
+313,106,Batticaloa Lighthouse,Construction,1913 AD,"Built by British to aid coastal shipping.",7.7000,81.7000
+314,106,Batticaloa Lighthouse,Renovation,1970 AD,"Repainted & structurally reinforced.",7.7000,81.7000
+315,106,Batticaloa Lighthouse,Electric Lighting Upgrade,1995 AD,"Electric bulbs installed replacing old oil lamps.",7.7000,81.7000
+
+316,107,Koneswaram Kovil (Trincomalee),Original Shrine Built,300 BC,"Ancient Hindu shrine dedicated to Shiva.",8.5680,81.2330
+317,107,Koneswaram Kovil (Trincomalee),Royal Patronage,500 AD,"Supported by Tamil and Sinhala rulers.",8.5680,81.2330
+318,107,Koneswaram Kovil (Trincomalee),Destruction by Portuguese,1624 AD,"Temple demolished & relics plundered.",8.5680,81.2330
+
+319,108,Fort Frederick Trincomalee,Construction by Portuguese,1624 AD,"Built using stones from demolished Koneswaram Temple.",8.5700,81.2330
+320,108,Fort Frederick Trincomalee,Dutch Capture,1639 AD,"Dutch forces took control of fort.",8.5700,81.2330
+321,108,Fort Frederick Trincomalee,British Occupation,1795 AD,"Used as key naval base.",8.5700,81.2330
+
+322,109,Lover’s Leap Cliff,Legend of Francina van Reed,1687 AD,"Dutch woman jumped after lover’s departure.",8.5680,81.2330
+323,109,Lover’s Leap Cliff,Viewing Point Established,1900 AD,"Turned into lookout spot.",8.5680,81.2330
+324,109,Lover’s Leap Cliff,Religious Offerings,2000 AD,"Visitors leave offerings for blessings.",8.5680,81.2330
+
+325,110,Kanniyai Hot Wells,Construction of Baths,500 AD,"Seven hot wells built for ritual bathing.",8.6000,81.2330
+326,110,Kanniyai Hot Wells,Renovation,1200 AD,"Kandy kings renovated pools.",8.6000,81.2330
+327,110,Kanniyai Hot Wells,Government Preservation,1983 AD,"Area protected under archaeology act.",8.6000,81.2330
+
+328,111,Seruwila Vihara Complex,Stupa Construction,200 BC,"Built by King Kavantissa.",8.4530,81.2980
+329,111,Seruwila Vihara Complex,Buddhist Revival,1930 AD,"Temple revived by local devotees.",8.4530,81.2980
+330,111,Seruwila Vihara Complex,Declared Sacred Area,1962 AD,"Recognized as national heritage.",8.4530,81.2980
+
+331,112,Kuchchaveli Ancient Ruins,Early Settlement,1000 AD,"Ruins indicate multi-ethnic community.",8.8000,81.1000
+332,112,Kuchchaveli Ancient Ruins,Ceramics Found,1200 AD,"Pottery fragments discovered.",8.8000,81.1000
+333,112,Kuchchaveli Ancient Ruins,Excavation,1990 AD,"Survey teams mapped ruins.",8.8000,81.1000
+
+334,113,Pigeon Island Fortress,Construction by Portuguese,1600 AD,"Small fort built on island.",8.7160,81.2000
+335,113,Pigeon Island Fortress,Dutch Takeover,1640 AD,"Dutch strengthened the fortifications.",8.7160,81.2000
+336,113,Pigeon Island Fortress,Declared National Park,2003 AD,"Island turned into marine park.",8.7160,81.2000
+
+337,114,Nilaveli Ancient Pillars,Building Construction,1100 AD,"Stone pillars indicate ancient shrine.",8.7160,81.2000
+338,114,Nilaveli Ancient Pillars,Rediscovery,1960 AD,"Ruins cleaned during surveys.",8.7160,81.2000
+339,114,Nilaveli Ancient Pillars,Conservation,1980 AD,"Protected by archaeology dept.",8.7160,81.2000
+
+340,115,Kanthale Tank,Construction by King Aggabodhi,600 AD,"Large irrigational reservoir built.",8.3500,81.0000
+341,115,Kanthale Tank,Bund Strengthening,900 AD,"Earthen bund reinforced.",8.3500,81.0000
+342,115,Kanthale Tank,Modern Rehabilitation,2010 AD,"Dam repaired after floods.",8.3500,81.0000
+
+343,116,Kudarappu Rock Inscription,Carving of Inscription,200 BC,"Stone inscription referencing donations.",9.0000,80.9000
+344,116,Kudarappu Rock Inscription,Rediscovery,1950 AD,"Inscription found near abandoned village.",9.0000,80.9000
+345,116,Kudarappu Rock Inscription,Conservation,1990 AD,"Inscription surface reinforced.",9.0000,80.9000
+
+346,117,Kadurana Ancient Forest Temple,Founding of Monastery,300 AD,"Monks resided in forest caves.",7.1500,80.1200
+347,117,Kadurana Ancient Forest Temple,Temple Expansion,900 AD,"Shrine expanded during medieval period.",7.1500,80.1200
+348,117,Kadurana Ancient Forest Temple,Modern Restoration,1985 AD,"Major rebuilding efforts.",7.1500,80.1200
+
+349,118,Ambalangoda Dutch Warehouse,Construction,1700 AD,"Dutch colonial storage facility.",6.2333,80.0500
+350,118,Ambalangoda Dutch Warehouse,Commercial Use,1800 AD,"Used for cinnamon storage.",6.2333,80.0500
+351,118,Ambalangoda Dutch Warehouse,Restoration,2005 AD,"Warehouse turned into museum.",6.2333,80.0500
+
+352,119,Seenigama Temple,Construction,1300 AD,"Built on small island off Hikkaduwa.",6.1566,80.0922
+353,119,Seenigama Temple,Coastal Pilgrimage Expands,1500 AD,"Temple becomes major coastal pilgrimage.",6.1566,80.0922
+354,119,Seenigama Temple,Post-Tsunami Restoration,2005 AD,"Temple rebuilt after 2004 tsunami.",6.1566,80.0922
+
+355,120,Dodanduwa Ancient Tower,Construction Period,1400 AD,"Built as watchtower over lagoon.",6.0961,80.1350
+356,120,Dodanduwa Ancient Tower,Chola Influence,1000 AD,"Evidence of Indian trade influence.",6.0961,80.1350
+357,120,Dodanduwa Ancient Tower,Restoration,1980 AD,"Minor repairs performed.",6.0961,80.1350
+
+358,121,Ranna Ancient Temple,Founding Period,500 AD,"Old southern shrine established.",6.0400,80.8500
+359,121,Ranna Ancient Temple,Mural Additions,1400 AD,"Paintings added during Kandyan era.",6.0400,80.8500
+360,121,Ranna Ancient Temple,Conservation,1970 AD,"Temple protected by archaeology dept.",6.0400,80.8500
+
+361,122,Kalametiya Ancient Ruins,Early Settlement,900 AD,"Stone foundations found near lagoon.",6.0450,80.8800
+362,122,Kalametiya Ancient Ruins,Ceramics Found,1200 AD,"Pottery remains uncovered.",6.0450,80.8800
+363,122,Kalametiya Ancient Ruins,Conservation,1980 AD,"Area fenced off for protection.",6.0450,80.8800
+
+364,123,Mulkirigala Rock Temple,Construction,300 AD,"Built on large rock outcrop with caves.",6.0640,80.6990
+365,123,Mulkirigala Rock Temple,Dutch Exploration,1750 AD,"Dutch recorded murals and inscriptions.",6.0640,80.6990
+366,123,Mulkirigala Rock Temple,Renovation,1980 AD,"Temple complex restored.",6.0640,80.6990
+
+367,124,Kahandamodara Ancient Port,Port Establishment,1000 AD,"Used for regional trade.",6.0700,80.8500
+368,124,Kahandamodara Ancient Port,Excavation Finds,1975 AD,"Stone anchors & pottery found.",6.0700,80.8500
+369,124,Kahandamodara Ancient Port,Conservation,2000 AD,"Site protected by govt.",6.0700,80.8500
+
+370,125,Godawaya Ancient Port,Port Activity Begins,200 AD,"Major ancient maritime center.",6.1900,80.9500
+371,125,Godawaya Ancient Port,Giant Customs Stone Found,2009 AD,"Oldest customs duties inscription discovered.",6.1900,80.9500
+372,125,Godawaya Ancient Port,Underwater Excavation,2010 AD,"Shipwreck explorations begin.",6.1900,80.9500
+
+373,126,Hambantota Gallows,Constructed by British,1800 AD,"Public execution site.",6.1208,81.1264
+374,126,Hambantota Gallows,Judicial Use,1850 AD,"Used for capital punishments.",6.1208,81.1264
+375,126,Hambantota Gallows,Preservation,2005 AD,"Protected as colonial relic.",6.1208,81.1264
+
+376,127,Katuwana Dutch Fort,Construction by Dutch,1645 AD,"Inland defensive stronghold.",6.1650,80.7330
+377,127,Katuwana Dutch Fort,Sinhalese Attack,1761 AD,"Kandyan forces captured fort.",6.1650,80.7330
+378,127,Katuwana Dutch Fort,Conservation,1980 AD,"Walls reinforced.",6.1650,80.7330
+
+379,128,Weerawila Ancient Temple,Founding Period,500 AD,"Ancient monastery in southern region.",6.1800,80.9000
+380,128,Weerawila Ancient Temple,Royal Support,800 AD,"Kings donated land to temple.",6.1800,80.9000
+381,128,Weerawila Ancient Temple,Conservation,1970 AD,"Temple repaired.",6.1800,80.9000
+
+382,129,Tissa Wewa Bund,Construction by King Kavantissa,200 BC,"Built to irrigate Ruhuna kingdom.",6.2660,80.8080
+383,129,Tissa Wewa Bund,Bund Strengthening,500 AD,"Earthen embankment repaired.",6.2660,80.8080
+384,129,Tissa Wewa Bund,Modern Restoration,2000 AD,"Reinforced after heavy floods.",6.2660,80.8080
+
+385,130,Yala Sithulpawwa Temple,Construction by King Kavantissa,200 BC,"Large monastery deep inside Yala.",6.3130,81.4670
+386,130,Yala Sithulpawwa Temple,Monastic Life,500 AD,"Hosted hundreds of monks.",6.3130,81.4670
+387,130,Yala Sithulpawwa Temple,Conservation,1960 AD,"Temple ruins protected.",6.3130,81.4670
+
+388,131,Bundala Ancient Ruins,Ancient Settlement,1000 AD,"Ruins indicate early village culture.",6.2000,81.2000
+389,131,Bundala Ancient Ruins,Pottery Found,1200 AD,"Archaeologists uncovered clay figurines.",6.2000,81.2000
+390,131,Bundala Ancient Ruins,Conservation,1995 AD,"Site fenced and protected.",6.2000,81.2000
+
+391,132,Magama Kota Vehera,Construction by King Kavantissa,200 BC,"Important southern stupa.",6.2500,81.2167
+392,132,Magama Kota Vehera,Expansion Work,700 AD,"Stupa expanded during medieval period.",6.2500,81.2167
+393,132,Magama Kota Vehera,Conservation,1980 AD,"Temple renovated.",6.2500,81.2167
+
+394,133,Ritigala Forest Monastery,Founding Period,200 BC,"Meditation retreat for monks in dense forest.",8.1000,80.7000
+395,133,Ritigala Forest Monastery,Medicinal Plants Usage,500 AD,"Monks used herbs for healing.",8.1000,80.7000
+396,133,Ritigala Forest Monastery,Rediscovery,1872 AD,"British rediscovered ruins.",8.1000,80.7000
+
+397,134,Ritigala Stone Bridge,Bridge Construction,800 AD,"Stone pillars used to cross water streams.",8.1000,80.7000
+398,134,Ritigala Stone Bridge,Collapse Period,1500 AD,"Bridge damaged due to floods.",8.1000,80.7000
+399,134,Ritigala Stone Bridge,Conservation,1985 AD,"Reinforcement done.",8.1000,80.7000
+
+400,135,Namal Uyana Ancient Quarry,Mining Activity,900 AD,"Pink quartz mountain used for sacred construction.",8.0333,80.4667
+
+401,135,Namal Uyana Ancient Quarry,Buddhist Monastic Use,1100 AD,"Quartz used for sacred monuments.",8.0333,80.4667
+402,135,Namal Uyana Ancient Quarry,Conservation Declared,2005 AD,"Protected as archaeological forest.",8.0333,80.4667
+
+403,136,Kaludiya Pokuna (Dambulla),Construction of Reservoir,800 AD,"Used as meditation retreat water source.",7.9000,80.6500
+404,136,Kaludiya Pokuna (Dambulla),Monastic Settlement,1000 AD,"Forest monastery flourished.",7.9000,80.6500
+405,136,Kaludiya Pokuna (Dambulla),Archaeological Survey,1970 AD,"Extensive mapping of ruins.",7.9000,80.6500
+
+406,137,Menikdena Viharaya,Construction,800 AD,"Ancient village temple near Dambulla.",7.8000,80.7000
+407,137,Menikdena Viharaya,Kingdom Patronage,1200 AD,"Kings funded expansions.",7.8000,80.7000
+408,137,Menikdena Viharaya,Conservation,1990 AD,"Temple restored.",7.8000,80.7000
+
+409,138,Kandalama Reservoir,Construction by Kings,700 AD,"Irrigation tank supporting agriculture.",7.8833,80.7000
+410,138,Kandalama Reservoir,Chola Influence,1000 AD,"Found artifacts linking South Indian presence.",7.8833,80.7000
+411,138,Kandalama Reservoir,Modern Renovation,1992 AD,"Tank rehabilitated.",7.8833,80.7000
+
+412,139,Pidurangala Rock Temple,Construction,500 AD,"Temple built opposite Sigiriya.",7.9560,80.7490
+413,139,Pidurangala Rock Temple,King Kashyapa Residence,477 AD,"Monks relocated to Pidurangala.",7.9560,80.7490
+414,139,Pidurangala Rock Temple,Restoration Work,1960 AD,"Caves renovated.",7.9560,80.7490
+
+415,140,Dambulla Ironwood Forest (Na Uyana),Creation of Ancient Forest Park,1000 AD,"Sacred grove preserved by monks.",7.9000,80.6500
+416,140,Dambulla Ironwood Forest (Na Uyana),Kaṭhāva Traditions,1200 AD,"Used as monastic meditation site.",7.9000,80.6500
+417,140,Dambulla Ironwood Forest (Na Uyana),Declared Protected,2001 AD,"Forest included in conservation zone.",7.9000,80.6500
+
+418,141,Arankele Monastery,Construction,500 AD,"Forest monastery for meditation monks.",7.4000,80.3500
+419,141,Arankele Monastery,Stone Walkways Built,800 AD,"Stone paths laid for walking meditation.",7.4000,80.3500
+420,141,Arankele Monastery,Conservation,1970 AD,"Ruins preserved and mapped.",7.4000,80.3500
+
+421,142,Asgiriya Raja Maha Viharaya (Gampola),Construction,1300 AD,"Temple built during Gampola Kingdom.",7.1667,80.6000
+422,142,Asgiriya Raja Maha Viharaya (Gampola),Murals Added,1500 AD,"Paintings created in Kandyan style.",7.1667,80.6000
+423,142,Asgiriya Raja Maha Viharaya (Gampola),Restoration,1980 AD,"Archaeology team restored murals.",7.1667,80.6000
+
+424,143,Lankatilaka Vihara (Gampola),Construction by King Bhuvanekabahu IV,1344 AD,"Majestic temple built on rock.",7.2340,80.5649
+425,143,Lankatilaka Vihara (Gampola),Artistic Enhancements,1500 AD,"Frescoes in Kandyan tradition.",7.2340,80.5649
+426,143,Lankatilaka Vihara (Gampola),Conservation Project,1990 AD,"Temple structure strengthened.",7.2340,80.5649
+
+427,144,Gadaladeniya Temple,Construction by King Buwanekabahu IV,1344 AD,"Built with Dravidian architectural influence.",7.2575,80.5560
+428,144,Gadaladeniya Temple,Sculpture Additions,1400 AD,"Stone carvings added.",7.2575,80.5560
+429,144,Gadaladeniya Temple,UNESCO Study,1975 AD,"Architectural research conducted.",7.2575,80.5560
+
+430,145,Degaldoruwa Temple,Construction by Kings,1700 AD,"Kandyan era rock temple.",7.3045,80.6644
+431,145,Degaldoruwa Temple,Wall Paintings,1800 AD,"Famous murals created.",7.3045,80.6644
+432,145,Degaldoruwa Temple,Conservation,2005 AD,"Paintings restored.",7.3045,80.6644
+
+433,146,Embekka Devalaya,Construction,1300 AD,"Built for God Kataragama.",7.2179,80.5677
+434,146,Embekka Devalaya,Wood Carving Production,1400 AD,"Known for world-renowned carvings.",7.2179,80.5677
+435,146,Embekka Devalaya,Declared Heritage,1980 AD,"Protected for unique wood architecture.",7.2179,80.5677
+
+436,147,Madawala Ancient Ruins,Settlement Establishment,900 AD,"Village built near river.",7.3000,80.7330
+437,147,Madawala Ancient Ruins,Pottery Found,1200 AD,"Research team uncovered artifacts.",7.3000,80.7330
+438,147,Madawala Ancient Ruins,Conservation,1990 AD,"Area designated for preservation.",7.3000,80.7330
+
+439,148,Galagedara Ambalama,Construction,1700 AD,"Rest house for travelers.",7.3833,80.5000
+440,148,Galagedara Ambalama,Kingdom Era Usage,1800 AD,"Used by Kandyan nobles.",7.3833,80.5000
+441,148,Galagedara Ambalama,Preservation,1985 AD,"Restored by archaeology dept.",7.3833,80.5000
+
+442,149,Dedduwa Ancient Temple,Construction Period,1300 AD,"Kandyan era temple.",6.3660,80.0200
+443,149,Dedduwa Ancient Temple,Murals Added,1600 AD,"Interior paintings completed.",6.3660,80.0200
+444,149,Dedduwa Ancient Temple,Restoration,1990 AD,"Temple conservation completed.",6.3660,80.0200
+
+445,150,Aluthnuwara Devalaya,Establishment,1400 AD,"Built for deity Dedimunda.",7.2000,80.6500
+446,150,Aluthnuwara Devalaya,Ritual Expansion,1600 AD,"Cultural rituals strengthened.",7.2000,80.6500
+447,150,Aluthnuwara Devalaya,Restoration Work,1980 AD,"Shrine renovated.",7.2000,80.6500
+
+448,151,Narangamuwa Ancient Temple,Construction,900 AD,"Monastery established in Kurunegala.",7.5833,80.3667
+449,151,Narangamuwa Ancient Temple,Cave Shrine Painted,1200 AD,"Murals painted in early Kandyan style.",7.5833,80.3667
+450,151,Narangamuwa Ancient Temple,Conservation,1995 AD,"Area protected by govt.",7.5833,80.3667
+
+451,152,Padeniya Raja Maha Viharaya,Construction,1300 AD,"Temple built during Kurunegala era.",7.6000,80.3167
+452,152,Padeniya Raja Maha Viharaya,Wooden Doorway Crafted,1500 AD,"Intricate carvings created.",7.6000,80.3167
+453,152,Padeniya Raja Maha Viharaya,Restoration Project,1980 AD,"Temple fully renovated.",7.6000,80.3167
+
+454,153,Ethagala Rock (Elephant Rock),Name Origin Event,1500 AD,"Rock named for elephant-like shape.",7.4833,80.3667
+455,153,Ethagala Rock (Elephant Rock),Monk Residence,1700 AD,"Hermit monks lived in caves.",7.4833,80.3667
+456,153,Ethagala Rock (Elephant Rock),Tourist Improvements,2000 AD,"Viewing platform constructed.",7.4833,80.3667
+
+457,154,Panavitiya Ambalama,Construction,1700 AD,"Rest hall famous for wooden carvings.",7.4630,80.3380
+458,154,Panavitiya Ambalama,Carving Peak Era,1800 AD,"Creation of exquisite carvings.",7.4630,80.3380
+459,154,Panavitiya Ambalama,Restoration,2003 AD,"Structures reinforced.",7.4630,80.3380
+
+460,155,Bala Thampana Ancient Temple,Construction,1400 AD,"Monastery established near forest.",7.5500,80.3833
+461,155,Bala Thampana Ancient Temple,Mural Development,1600 AD,"Kandyan era paintings.",7.5500,80.3833
+462,155,Bala Thampana Ancient Temple,Conservation,1990 AD,"Temple preserved.",7.5500,80.3833
+
+463,156,Ridi Viharaya (Silver Temple),Discovery of Silver Ore,200 AD,"Silver found and gifted to kings.",7.7000,80.5000
+464,156,Ridi Viharaya (Silver Temple),Construction of Main Shrine,200 AD,"Built by King Dutugemunu.",7.7000,80.5000
+465,156,Ridi Viharaya (Silver Temple),Murals Added,1700 AD,"Kandyan painters decorated walls.",7.7000,80.5000
+
+466,157,Hettipola Rock Inscription,Carving of Inscription,900 AD,"Old Brahmi script inscription made.",7.6333,80.1833
+467,157,Hettipola Rock Inscription,Rediscovery,1970 AD,"Local villagers found carved rock.",7.6333,80.1833
+468,157,Hettipola Rock Inscription,Conservation,2000 AD,"Protected as archaeological site.",7.6333,80.1833
+
+469,158,Melsiripura Stupa,Construction,1200 AD,"Ancient stupa built in Kurunegala.",7.7000,80.4167
+470,158,Melsiripura Stupa,Restoration,1950 AD,"Shrine restored.",7.7000,80.4167
+471,158,Melsiripura Stupa,Declared Sacred Area,2005 AD,"Temple consecrated.",7.7000,80.4167
+
+472,159,Galgamuwa Ancient Wewa,Tank Construction,600 AD,"Large irrigation reservoir created.",7.9833,80.2500
+473,159,Galgamuwa Ancient Wewa,Chena Cultivation Era,900 AD,"Supported agriculture for centuries.",7.9833,80.2500
+474,159,Galgamuwa Ancient Wewa,Rehabilitation,2000 AD,"Bund strengthened.",7.9833,80.2500
+
+475,160,Thalawa Rajamaha Viharaya,Construction,1300 AD,"Temple built during kingdom era.",8.0667,80.1833
+476,160,Thalawa Rajamaha Viharaya,Royal Patronage,1500 AD,"Kings funded shrine development.",8.0667,80.1833
+477,160,Thalawa Rajamaha Viharaya,Conservation,1985 AD,"Temple repaired.",8.0667,80.1833
+
+478,161,Eppawala Ancient Monastery,Founding Period,500 AD,"Monastery located near mineral deposits.",8.1500,80.4333
+479,161,Eppawala Ancient Monastery,Buddhist Worship Peak,1000 AD,"Temple gained regional importance.",8.1500,80.4333
+480,161,Eppawala Ancient Monastery,Conservation,1995 AD,"Archaeology Dept. protected site.",8.1500,80.4333
+
+481,162,Kashyamana Viharaya,Construction Era,900 AD,"Monastery built on elevated land.",7.7833,80.8000
+482,162,Kashyamana Viharaya,Murals Added,1500 AD,"Wall painting tradition continued.",7.7833,80.8000
+483,162,Kashyamana Viharaya,Conservation,1980 AD,"Site protected.",7.7833,80.8000
+
+484,163,Panduwasnuwara Ancient Kingdom,Capital Establishment,500 AD,"Capital of Pandukabhaya’s descendants.",7.7833,80.0500
+485,163,Panduwasnuwara Ancient Kingdom,Palace Construction,600 AD,"Brick palace foundations laid.",7.7833,80.0500
+486,163,Panduwasnuwara Ancient Kingdom,Archaeological Excavation,1970 AD,"Palace ruins excavated.",7.7833,80.0500
+
+487,164,Andiyagala Rock Engravings,Engravings Carved,1000 AD,"Medieval carvings found on rock face.",8.1500,80.3333
+488,164,Andiyagala Rock Engravings,Rediscovery,1960 AD,"Engravings rediscovered.",8.1500,80.3333
+489,164,Andiyagala Rock Engravings,Protected Area Declared,1990 AD,"Archaeology protection granted.",8.1500,80.3333
+
+490,165,Thammenna Rock Monastery,Founding Period,900 AD,"Meditation retreat in forest.",8.2000,80.4667
+491,165,Thammenna Rock Monastery,Chola Conflict Era,1000 AD,"Monastery damaged during invasions.",8.2000,80.4667
+492,165,Thammenna Rock Monastery,Conservation,1985 AD,"Site repaired.",8.2000,80.4667
+
+493,166,Kahawa Ancient Shrine,Construction,700 AD,"Coastal shrine.<|vq_lbr_audio_34528|><|vq_lbr_audio_67973|><|vq_lbr_audio_124852|><|vq_l_lbr_audio_27668|><|vq_lbr_audio_54619|><|vq_lbr_audio_68901|><|vq_lbr_audio_90781|><|vq_lbr_audio_9011|><|vq_lbr_audio_83701|><|vq_lbr_audio_78679|><|vq_lbr_audio_13042|><|vq_lbr_audio_47071|><|vq_lbr_audio_92204|><|vq_lbr_audio_66662|><|vq_lbr_audio_125614|><|vq_lbr_audio_111957|><|vq_lbr_audio_113888|><|vq_lbr_audio_38473|><|vq_lbr_audio_78173|><|vq_lbr_audio_54880|><|vq_lbr_audio_123204|><|vq_lbr_audio_90006|> ప్రజ6.3333,80.9000
+494,166,Kahawa Ancient Shrine,Coastal Pilgrimage,1200 AD,"Temple used for sea rituals.",6.3333,80.9000
+495,166,Kahawa Ancient Shrine,Renovation,1980 AD,"Shrine rebuilt.",6.3333,80.9000
+
+496,167,Gonagolla Vihara,Construction,500 AD,"Cave temple with inscriptions.",7.4000,81.0167
+497,167,Gonagolla Vihara,Brahmi Inscriptions,200 AD,"Ancient inscriptions discovered.",7.4000,81.0167
+498,167,Gonagolla Vihara,Conservation,1990 AD,"Temple preserved.",7.4000,81.0167
+
+499,168,Ampara Magul Maha Viharaya,Construction by King Kavantissa,200 BC,"Temple linked to legend of Viharamahadevi.",7.3000,81.3833
+500,168,Ampara Magul Maha Viharaya,Royal Wedding Legend,200 BC,"Believed to be site of royal marriage.",7.3000,81.3833
+
+501,168,Ampara Magul Maha Viharaya,Conservation Work,1990 AD,"Archaeological restoration conducted.",7.3000,81.3833
+
+502,169,Lahugala Kota Vehera,Construction,100 AD,"Large stupa structure created.",6.8667,81.4500
+503,169,Lahugala Kota Vehera,Monastic Settlement,400 AD,"Monks lived in forest caves.",6.8667,81.4500
+504,169,Lahugala Kota Vehera,Protected Area Declared,1975 AD,"Conservation initiated.",6.8667,81.4500
+
+505,170,Deegavapi Stupa,Construction by Arahat Mahinda,300 AD,"Sacred site visited by Buddhist monks.",6.7833,81.6167
+506,170,Deegavapi Stupa,Royal Endowment,600 AD,"Kings expanded temple complex.",6.7833,81.6167
+507,170,Deegavapi Stupa,Reconstruction,1985 AD,"Large-scale repairs performed.",6.7833,81.6167
+
+508,171,Dighavapi Image House,Creation,500 AD,"Ancient image house built near stupa.",6.8000,81.6000
+509,171,Dighavapi Image House,Brahmi Script Found,300 AD,"Inscriptions discovered.",6.8000,81.6000
+510,171,Dighavapi Image House,Conservation,2000 AD,"Preservation funded by govt.",6.8000,81.6000
+
+511,172,Sangamankanda Lighthouse,Construction,1860 AD,"British built lighthouse on coast.",6.9000,81.5667
+512,172,Sangamankanda Lighthouse,War Damage,1990 AD,"Damaged during conflict.",6.9000,81.5667
+513,172,Sangamankanda Lighthouse,Restoration,2010 AD,"Lighthouse reconstructed.",6.9000,81.5667
+
+514,173,Komari Ancient Ruins,Construction Period,300 AD,"Monastic structures established.",6.8833,81.8500
+515,173,Komari Ancient Ruins,Rediscovery,1975 AD,"Archaeologists identified ruins.",6.8833,81.8500
+516,173,Komari Ancient Ruins,Protection,1992 AD,"Area gazetted.",6.8833,81.8500
+
+517,174,Oluvil Lighthouse,Built by Government,1999 AD,"Modern lighthouse creation.",7.3000,81.8667
+518,174,Oluvil Lighthouse,Opened to Shipping,1999 AD,"Improved coastal navigation.",7.3000,81.8667
+519,174,Oluvil Lighthouse,Improvements,2010 AD,"Lighting system upgraded.",7.3000,81.8667
+
+520,175,Okanda Murugan Temple,Early Shrine Creation,500 AD,"Ancient shrine dedicated to Murugan.",6.7667,81.8000
+521,175,Okanda Murugan Temple,Pilgrimage Route Established,900 AD,"Kataragama pilgrims used coastal route.",6.7667,81.8000
+522,175,Okanda Murugan Temple,Temple Expansion,1950 AD,"Shrine expanded for pilgrims.",6.7667,81.8000
+
+523,176,Kudumbigala Monastery,Founding Period,246 AD,"Earliest meditation forest monastery.",6.6333,81.7167
+524,176,Kudumbigala Monastery,Rock Inscriptions,200 AD,"Ancient Brahmi text found.",6.6333,81.7167
+525,176,Kudumbigala Monastery,Reopening,1954 AD,"Reopened by Buddhist monk Jinarathana.",6.6333,81.7167
+
+526,177,Hulannuge Cave Temple,Construction,500 AD,"Ancient cave temple.",7.2167,81.2500
+527,177,Hulannuge Cave Temple,Monastic Use,900 AD,"Used by forest monks.",7.2167,81.2500
+528,177,Hulannuge Cave Temple,Conservation,1990 AD,"Temple protected.",7.2167,81.2500
+
+529,178,Ampara Samangala Forest Monastery,Construction,200 AD,"Monastic settlement created.",7.3000,81.3500
+530,178,Ampara Samangala Forest Monastery,Discoveries,1960 AD,"Multiple caves with art discovered.",7.3000,81.3500
+531,178,Ampara Samangala Forest Monastery,Conservation,2005 AD,"Site protected.",7.3000,81.3500
+
+532,179,Dehiattakandiya Ancient Ruins,Settlement Origin,300 AD,"Early village settlement.",7.9000,81.0333
+533,179,Dehiattakandiya Ancient Ruins,Artifacts Found,700 AD,"Pottery fragments uncovered.",7.9000,81.0333
+534,179,Dehiattakandiya Ancient Ruins,Declared Protected,1990 AD,"Archaeology dept declared protection.",7.9000,81.0333
+
+535,180,Mahiyangana Raja Maha Viharaya,First Buddhist Stupa,543 BC,"Site of Buddha's first visit to Sri Lanka.",7.5000,81.0000
+536,180,Mahiyangana Raja Maha Viharaya,Enlarged by Kings,300 AD,"Stupa expanded over centuries.",7.5000,81.0000
+537,180,Mahiyangana Raja Maha Viharaya,Annual Festival,1800 AD,"Perahera rituals strengthened.",7.5000,81.0000
+
+538,181,Sorabora Wewa,Construction by Giant Bulatha,100 AD,"Legendary creation of reservoir.",7.7833,81.0667
+539,181,Sorabora Wewa,Engineering Development,300 AD,"Unique sluice system applied.",7.7833,81.0667
+540,181,Sorabora Wewa,Rehabilitation,2000 AD,"Bund reconstruction carried out.",7.7833,81.0667
+
+541,182,Dematamal Viharaya,Construction,200 AD,"Ancient shrine with Bodhi tree.",6.9333,81.8000
+542,182,Dematamal Viharaya,Use in Elara-Dutugemunu War,161 BC,"Refuge for Prince Saddhatissa.",6.9333,81.8000
+543,182,Dematamal Viharaya,Conservation,1990 AD,"Temple renovated.",6.9333,81.8000
+
+544,183,Bibile Maligawila Buddha Statue,Creation,600 AD,"Tall limestone Buddha statue carved.",6.8167,81.3333
+545,183,Bibile Maligawila Buddha Statue,Rediscovery,1950 AD,"Statue found broken on ground.",6.8167,81.3333
+546,183,Bibile Maligawila Buddha Statue,Reconstruction,1991 AD,"Statue raised to standing form.",6.8167,81.3333
+
+547,184,Dematamal Giant’s Tank,Construction,300 AD,"Irrigation tank built in ancient period.",6.9500,81.8333
+548,184,Dematamal Giant’s Tank,Chola Era Activity,1000 AD,"Chola engineering influence seen.",6.9500,81.8333
+549,184,Dematamal Giant’s Tank,Rehabilitation,1995 AD,"Tank system restored.",6.9500,81.8333
+
+550,185,Badulla Muthiyangana Temple,Construction,300 AD,"Sacred site visited by Buddha.",7.0500,81.0667
+551,185,Badulla Muthiyangana Temple,Kandyan Patronage,1700 AD,"Kings renovated shrine buildings.",7.0500,81.0667
+552,185,Badulla Muthiyangana Temple,Festival Enhancement,2000 AD,"Temple festival modernised.",7.0500,81.0667
+
+553,186,Rawana Waterfall Caves,Legend of Ravana,5000 BC,"Legend claims Ravana lived here.",6.8500,81.0667
+554,186,Rawana Waterfall Caves,Temple Construction,100 AD,"Small shrine added later.",6.8500,81.0667
+555,186,Rawana Waterfall Caves,Tourist Development,2005 AD,"Viewing paths created.",6.8500,81.0667
+
+556,187,Dunhinda Waterfall Area,Ancient Settlement,1000 AD,"Village existed near waterfall.",7.0333,81.0667
+557,187,Dunhinda Waterfall Area,Rock Tools Found,2000 BC,"Archaeologists found prehistoric tools.",7.0333,81.0667
+558,187,Dunhinda Waterfall Area,Nature Conservation,1990 AD,"Area declared nature sanctuary.",7.0333,81.0667
+
+559,188,Bogoda Wooden Bridge,Construction,1600 AD,"Oldest wooden bridge in Sri Lanka.",7.0167,81.0500
+560,188,Bogoda Wooden Bridge,Temple Link,1600 AD,"Bridge connected to Bogoda temple.",7.0167,81.0500
+561,188,Bogoda Wooden Bridge,Restoration,1990 AD,"Bridge refurbished.",7.0167,81.0500
+
+562,189,Idalgashinna Forest Heritage,Ancient Footpaths,1200 AD,"Used for village connectivity.",6.7833,81.0000
+563,189,Idalgashinna Forest Heritage,Trading Route,1500 AD,"Tea traders later used pathway.",6.7833,81.0000
+564,189,Idalgashinna Forest Heritage,Declared Natural Heritage,2000 AD,"Forest included in conservation zone.",6.7833,81.0000
+
+565,190,Welimada Ambalama,Construction,1700 AD,"Resting hall built for travellers.",6.9833,80.9000
+566,190,Welimada Ambalama,Kandyan Use,1750 AD,"Used by Kandyan nobles.",6.9833,80.9000
+567,190,Welimada Ambalama,Renovation,1995 AD,"Ambalama restored.",6.9833,80.9000
+
+568,191,Haputale Ancient Ruins,Monastic Use,700 AD,"Early monastery established.",6.7667,80.9667
+569,191,Haputale Ancient Ruins,Artifacts Found,900 AD,"Pottery and stones discovered.",6.7667,80.9667
+570,191,Haputale Ancient Ruins,Protection,1980 AD,"Site secured by authorities.",6.7667,80.9667
+
+571,192,Bandarawela Temple Cave Paintings,Creation Period,1500 AD,"Cave murals painted in Kandyan style.",6.8333,80.9833
+572,192,Bandarawela Temple Cave Paintings,Mural Restoration,2001 AD,"Paintings restored.",6.8333,80.9833
+573,192,Bandarawela Temple Cave Paintings,Declared Protected,1990 AD,"Temple listed as archaeological.",6.8333,80.9833
+
+574,193,Adisham Bungalow (Historic),Construction,1931 AD,"Built by Sir Thomas Villiers.",6.8167,80.9000
+575,193,Adisham Bungalow (Historic),Monastery Conversion,1960 AD,"Converted into monastery.",6.8167,80.9000
+576,193,Adisham Bungalow (Historic),Tourist Establishment,1990 AD,"Opened to visitors.",6.8167,80.9000
+
+577,194,St. Mark’s Church Badulla,British Construction,1857 AD,"Built during colonial period.",6.9833,81.0667
+578,194,St. Mark’s Church Badulla,Railway Officer Memorial,1870 AD,"Memorial for railway workers.",6.9833,81.0667
+579,194,St. Mark’s Church Badulla,Renovation,2000 AD,"Church restored.",6.9833,81.0667
+
+580,195,Kataragama Sacred City,Establishment,200 BC,"Multi-religious sacred site.",6.4167,81.3333
+581,195,Kataragama Sacred City,Arrival of God Skanda Legend,1000 BC,"Ancient stories of deity arrival.",6.4167,81.3333
+582,195,Kataragama Sacred City,Annual Perahera,1600 AD,"Traditional festival held since monarchy.",6.4167,81.3333
+
+583,196,Sella Kataragama Temple,Construction,1400 AD,"Shrine dedicated to God Ganesh.",6.4667,81.3333
+584,196,Sella Kataragama Temple,Pilgrimage Route Development,1700 AD,"Pilgrims travelled through jungle.",6.4667,81.3333
+585,196,Sella Kataragama Temple,Modern Expansion,1980 AD,"Infrastructure built for pilgrims.",6.4667,81.3333
+
+586,197,Kiri Vehera,Construction by King Mahasena,560 AD,"Large white stupa erected.",6.4240,81.3323
+587,197,Kiri Vehera,Royal Patronage,1200 AD,"Kings supported rituals.",6.4240,81.3323
+588,197,Kiri Vehera,Restoration,1990 AD,"Restoration works commenced.",6.4240,81.3323
+
+589,198,Yala Sithulpawwa Ancient Monastery,Construction,200 AD,"Sacred monastery in Yala jungle.",6.3667,81.5167
+590,198,Yala Sithulpawwa Ancient Monastery,Brahmi Script Discovery,200 AD,"Ancient inscriptions found.",6.3667,81.5167
+591,198,Yala Sithulpawwa Ancient Monastery,Conservation Project,2010 AD,"Site rehabilitated.",6.3667,81.5167
+
+592,199,Magama Thissamaharama Kingdom,Establishment,200 AD,"Southern kingdom headquarters.",6.2833,81.2833
+593,199,Magama Thissamaharama Kingdom,Buddhist Peak Period,300 AD,"Monastic culture expanded.",6.2833,81.2833
+594,199,Magama Thissamaharama Kingdom,Archaeological Excavation,1995 AD,"Palace ruins uncovered.",6.2833,81.2833
+
+595,200,Tissamaharama Stupa,Construction by King Kavantissa,200 AD,"One of largest stupas in south.",6.2798,81.2915
+596,200,Tissamaharama Stupa,Ritual Worship,400 AD,"Attracted monks and devotees.",6.2798,81.2915
+597,200,Tissamaharama Stupa,Renovation,1990 AD,"Restoration completed.",6.2798,81.2915
+
+598,201,Kataragama Sandagiri Thupa,Construction,200 AD,"Ancient stupa remains.",6.4167,81.3333
+599,201,Kataragama Sandagiri Thupa,Monastic Activity,500 AD,"Temple activities flourished.",6.4167,81.3333
+600,201,Kataragama Sandagiri Thupa,Archaeological Study,1980 AD,"Scientific excavation done.",6.4167,81.3333
+
+601,202,Dorawaka Cave (Kegalle),Prehistoric Settlement,8000 BC,"Stone tools of prehistoric humans found.",7.2167,80.3333
+602,202,Dorawaka Cave (Kegalle),Excavation,1960 AD,"Archaeologists uncovered microlithic tools.",7.2167,80.3333
+603,202,Dorawaka Cave (Kegalle),Declared Protected,1970 AD,"Cave listed as protected heritage.",7.2167,80.3333
+
+604,203,Beligala Raja Maha Viharaya,Construction by King Vijayabahu III,1200 AD,"Temporary capital of Dambadeniya Kingdom.",7.3500,80.2833
+605,203,Beligala Raja Maha Viharaya,Temple Expansion,1300 AD,"Shrine buildings expanded.",7.3500,80.2833
+606,203,Beligala Raja Maha Viharaya,Conservation Work,1995 AD,"Restored by archaeology dept.",7.3500,80.2833
+
+607,204,Asgiri Cave Monastery (Ruwanwella),Brahmi Inscriptions Found,200 AD,"Ancient cave inscriptions discovered.",7.0500,80.3500
+608,204,Asgiri Cave Monastery (Ruwanwella),Monastic Settlement,300 AD,"Used as a forest hermitage.",7.0500,80.3500
+609,204,Asgiri Cave Monastery (Ruwanwella),Protection Status,1980 AD,"Listed as archaeological site.",7.0500,80.3500
+
+610,205,Kandegedara Ancient Temple,Construction Period,500 AD,"Built during early Anuradhapura era.",7.3833,80.3833
+611,205,Kandegedara Ancient Temple,Temple Renovation,1700 AD,"Kandyan kings restored main shrine.",7.3833,80.3833
+612,205,Kandegedara Ancient Temple,Conservation,1990 AD,"Site protected under archaeology ordinance.",7.3833,80.3833
+
+613,206,Alawala Cave Complex,Prehistoric Human Activity,7000 BC,"Prehistoric human remains discovered.",7.2500,80.3500
+614,206,Alawala Cave Complex,Scientific Excavation,1980 AD,"Cave examined by archaeologists.",7.2500,80.3500
+615,206,Alawala Cave Complex,Declared Protected,1998 AD,"Added to heritage registry.",7.2500,80.3500
+
+616,207,Kitulgala Belilena Cave,Settlement of Balangoda Man,30000 BC,"Famous prehistoric settlement.",6.9833,80.4167
+617,207,Kitulgala Belilena Cave,Excavations,1980 AD,"Human skeletal remains found.",6.9833,80.4167
+618,207,Kitulgala Belilena Cave,Heritage Protection,2000 AD,"Cave secured for conservation.",6.9833,80.4167
+
+619,208,Uthuwankanda Cave (Sura Saradiel),Bandit Stronghold,1860 AD,"Hideout of Sri Lanka’s Robin Hood.",7.2500,80.3333
+620,208,Uthuwankanda Cave (Sura Saradiel),British Encounter,1862 AD,"British forces attacked hideout.",7.2500,80.3333
+621,208,Uthuwankanda Cave (Sura Saradiel),Memorial Establishment,2004 AD,"Museum built in honor of Saradiel.",7.2500,80.3333
+
+622,209,Arandara Ancient Temple,Construction,700 AD,"Temple built in intermediate period.",7.2000,80.2000
+623,209,Arandara Ancient Temple,Monastic Use,900 AD,"Residence for monks.",7.2000,80.2000
+624,209,Arandara Ancient Temple,Restoration,1990 AD,"Restoration completed by archaeology dept.",7.2000,80.2000
+
+625,210,Arandara Ambalama,Construction,1700 AD,"Rest stop created for travelers.",7.2000,80.2000
+626,210,Arandara Ambalama,Used During Kandyan Era,1750 AD,"Shelter for nobles and merchants.",7.2000,80.2000
+627,210,Arandara Ambalama,Conservation,2005 AD,"Ambalama strengthened structurally.",7.2000,80.2000
+
+628,211,Wewaladeniya Ambalama,Construction,1600 AD,"Historic ambalama built in hill country.",7.2500,80.1500
+629,211,Wewaladeniya Ambalama,Travelers’ Shelter,1700 AD,"Used by pilgrims and traders.",7.2500,80.1500
+630,211,Wewaladeniya Ambalama,Declared Protected,1992 AD,"Architectural site listed.",7.2500,80.1500
+
+631,212,Rambukkana Ancient Bo Tree,Planting,300 AD,"One of oldest Bo trees in region.",7.3000,80.3833
+632,212,Rambukkana Ancient Bo Tree,Worship Tradition,600 AD,"Locals worshipped tree for blessings.",7.3000,80.3833
+633,212,Rambukkana Ancient Bo Tree,Sacred Protection,1985 AD,"Bo tree included in heritage registry.",7.3000,80.3833
+
+634,213,Kegalle Dedigama Kota Vehera,Construction by King Parakramabahu II,1230 AD,"Massive stupa housing royal artifacts.",7.2333,80.3167
+635,213,Kegalle Dedigama Kota Vehera,Excavation Discoveries,1950 AD,"Artifacts including royal regalia found.",7.2333,80.3167
+636,213,Kegalle Dedigama Kota Vehera,Restoration,1970 AD,"Monument reconstructed.",7.2333,80.3167
+
+637,214,Dedigama Museum,Establishment,1980 AD,"Museum created to store royal artifacts.",7.2333,80.3167
+638,214,Dedigama Museum,Artifact Display Update,2000 AD,"Exhibits expanded with new findings.",7.2333,80.3167
+639,214,Dedigama Museum,Visitor Development,2010 AD,"New facilities added for tourists.",7.2333,80.3167
+
+640,215,Narangala Ancient Settlement,First Settlement,1200 AD,"Early village settlement at high elevation.",7.0833,80.9667
+641,215,Narangala Ancient Settlement,Archaeological Findings,2005 AD,"Tools and pottery excavated.",7.0833,80.9667
+642,215,Narangala Ancient Settlement,Protected Status,2015 AD,"Area declared protected.",7.0833,80.9667
+
+643,216,Mawanella Aluthnuwara Devalaya,Construction,1300 AD,"Shrine dedicated to deity Aluthnuwara Deviyo.",7.2833,80.4500
+644,216,Mawanella Aluthnuwara Devalaya,Kandyan Patronage,1600 AD,"Kings expanded shrine structures.",7.2833,80.4500
+645,216,Mawanella Aluthnuwara Devalaya,Restoration,1980 AD,"Temple renovated.",7.2833,80.4500
+
+646,217,Sitawaka Rajasinghe Palace Ruins,Construction,1550 AD,"Palace of King Rajasinghe I.",6.9500,80.0833
+647,217,Sitawaka Rajasinghe Palace Ruins,Destruction,1593 AD,"Ruins after war with Portuguese.",6.9500,80.0833
+648,217,Sitawaka Rajasinghe Palace Ruins,Archaeological Work,1950 AD,"Excavation revealed palace layout.",6.9500,80.0833
+
+649,218,Ranwala Ancient Temple,Construction,500 AD,"One of oldest temples in Kegalle region.",7.2667,80.3333
+650,218,Ranwala Ancient Temple,Monastic Learning,900 AD,"Became a regional learning center.",7.2667,80.3333
+651,218,Ranwala Ancient Temple,Declared Protected,1999 AD,"Temple added to heritage registry.",7.2667,80.3333
+
+652,219,Galapitamada Ambalama,Construction,1600 AD,"Ancient ambalama for travelers.",7.2333,80.3167
+653,219,Galapitamada Ambalama,Use in Kandyan Era,1700 AD,"Rest stop for traders.",7.2333,80.3167
+654,219,Galapitamada Ambalama,Conservation,2000 AD,"Ambalama restored.",7.2333,80.3167
+
+655,220,Asupini Ella Sacred Site,Legend Origin,1500 AD,"Legend of princess’s tragic leap.",7.1833,80.5333
+656,220,Asupini Ella Sacred Site,Temple Construction,1700 AD,"Shrine developed near falls.",7.1833,80.5333
+657,220,Asupini Ella Sacred Site,Declared Nature Heritage,1995 AD,"Waterfall protected.",7.1833,80.5333
+
+658,221,Kosgama Ancient Temple,Construction,700 AD,"Ancient Buddhist temple.",6.9500,80.0833
+659,221,Kosgama Ancient Temple,Chola Influence,1000 AD,"Stone carvings show South Indian links.",6.9500,80.0833
+660,221,Kosgama Ancient Temple,Renovation,1990 AD,"Preservation carried out.",6.9500,80.0833
+
+661,222,Hanwella Fort,Portuguese Construction,1597 AD,"Fort built beside Kelani River.",6.9000,80.0667
+662,222,Hanwella Fort,Dutch Reconstruction,1685 AD,"Rebuilt with stronger defenses.",6.9000,80.0667
+663,222,Hanwella Fort,British Occupation,1800 AD,"Used as military post.",6.9000,80.0667
+
+664,223,Kosgama Rajamaha Vihara,Construction,600 AD,"Old Buddhist temple.",6.9333,80.1500
+665,223,Kosgama Rajamaha Vihara,Kandyan Renovation,1750 AD,"Kandyan kings developed temple.",6.9333,80.1500
+666,223,Kosgama Rajamaha Vihara,Conservation,2000 AD,"Restoration projects executed.",6.9333,80.1500
+
+667,224,Avissawella Barandi Kovila,Construction,1700 AD,"Shrine dedicated to local deity.",6.9500,80.2000
+668,224,Avissawella Barandi Kovila,Expansion,1850 AD,"Shrine expanded with hall.",6.9500,80.2000
+669,224,Avissawella Barandi Kovila,Declared Protected,1998 AD,"Added to archaeology list.",6.9500,80.2000
+
+670,225,Waga Kande Viharaya,Construction,1500 AD,"Temple built on rock plateau.",6.8667,80.0667
+671,225,Waga Kande Viharaya,Painting Creation,1700 AD,"Murals drawn inside shrine.",6.8667,80.0667
+672,225,Waga Kande Viharaya,Renovation,1990 AD,"Temple restored.",6.8667,80.0667
+
+673,226,Padukka Galpoththa Ancient Stone,Carving Period,1100 AD,"Inscription showing ancient boundaries.",6.8333,80.0833
+674,226,Padukka Galpoththa Ancient Stone,Rediscovery,1950 AD,"Stone found during road work.",6.8333,80.0833
+675,226,Padukka Galpoththa Ancient Stone,Protection,2005 AD,"Declared archaeological.",6.8333,80.0833
+
+676,227,Seethawaka Wet Zone Heritage,Ancient Settlement,1200 AD,"Human settlements existed historically.",6.9500,80.0833
+677,227,Seethawaka Wet Zone Heritage,Royal Use,1500 AD,"Area part of Sitawaka Kingdom.",6.9500,80.0833
+678,227,Seethawaka Wet Zone Heritage,Conservation,2000 AD,"Wet zone forest protected.",6.9500,80.0833
+
+679,228,Ruwanwella Fort,Portuguese Origin,1590 AD,"Built to control Kelani Valley.",7.0500,80.3500
+680,228,Ruwanwella Fort,Dutch Expansion,1665 AD,"Strengthened with new ramparts.",7.0500,80.3500
+681,228,Ruwanwella Fort,British Transformation,1817 AD,"Turned into police barracks.",7.0500,80.3500
+
+682,229,Batuwita Ancient Temple,Construction,900 AD,"Historic Buddhist temple.",6.8000,80.0333
+683,229,Batuwita Ancient Temple,Royal Patronage,1200 AD,"Kings funded monastic activities.",6.8000,80.0333
+684,229,Batuwita Ancient Temple,Modern Renovation,2000 AD,"Temple conserved.",6.8000,80.0333
+
+685,230,Ingiriya Archaeology Park,Prehistoric Evidence,8000 BC,"Stone tools discovered.",6.7333,80.1167
+686,230,Ingiriya Archaeology Park,Forest Monastery,700 AD,"Monk settlements found.",6.7333,80.1167
+687,230,Ingiriya Archaeology Park,Declared Protected,2010 AD,"Park designated for archaeological study.",6.7333,80.1167
+
+688,231,Gangodavila Ancient Bo Tree,Planting,300 AD,"Believed to be planted by monks.",6.8667,79.8833
+689,231,Gangodavila Ancient Bo Tree,Local Worship,1500 AD,"Tree worshipped by villagers.",6.8667,79.8833
+690,231,Gangodavila Ancient Bo Tree,Conservation,1999 AD,"Protected by forest department.",6.8667,79.8833
+
+691,232,Kottawa Forest Heritage,Prehistoric Habitat,5000 BC,"Evidence of Stone Age humans.",6.8333,79.9667
+692,232,Kottawa Forest Heritage,Monastic Use,900 AD,"Meditating monks lived here.",6.8333,79.9667
+693,232,Kottawa Forest Heritage,Declared Reserve,1980 AD,"Forest declared protected.",6.8333,79.9667
+
+694,233,Maharagama Arawwala Temple,Construction,600 AD,"Ancient Buddhist shrine complex.",6.8500,79.9167
+695,233,Maharagama Arawwala Temple,Kandyan Style Renovation,1700 AD,"Shrine rebuilt in Kandyan style.",6.8500,79.9167
+696,233,Maharagama Arawwala Temple,Declared Archaeological Site,1995 AD,"Temple protected.",6.8500,79.9167
+
+697,234,Ratmalana Gal Subodarama,Construction,800 AD,"Ancient monastery site.",6.8333,79.8833
+698,234,Ratmalana Gal Subodarama,Cave Murals,1200 AD,"Murals painted in medieval period.",6.8333,79.8833
+699,234,Ratmalana Gal Subodarama,Conservation,2000 AD,"Renovation completed.",6.8333,79.8833
+
+700,235,Ratmalana Ancient Well,Construction,500 AD,"Used by early settlers.",6.8333,79.8833
+
+701,235,Ratmalana Ancient Well,Community Use,1200 AD,"Used as primary water source for villagers.",6.8333,79.8833
+702,235,Ratmalana Ancient Well,Declared Protected,1990 AD,"Added to archaeology registry.",6.8333,79.8833
+703,235,Ratmalana Ancient Well,Well Restoration,2005 AD,"Reinforced to prevent collapse.",6.8333,79.8833
+
+704,236,Mt. Lavinia Archaeological Zone,Colonial Occupation,1800 AD,"British Governor’s residence built nearby.",6.8333,79.8667
+705,236,Mt. Lavinia Archaeological Zone,Early Settlements,600 AD,"Ancient coastal settlements existed here.",6.8333,79.8667
+706,236,Mt. Lavinia Archaeological Zone,Conservation Work,2010 AD,"Coastal archaeology protections added.",6.8333,79.8667
+
+707,237,Boralasgamuwa Ancient Pond,Construction,700 AD,"Reservoir created to support agriculture.",6.8200,79.9100
+708,237,Boralasgamuwa Ancient Pond,Chola Influence,1000 AD,"Dam expanded under South Indian rule.",6.8200,79.9100
+709,237,Boralasgamuwa Ancient Pond,Restoration,1998 AD,"Pond rehabilitated.",6.8200,79.9100
+
+710,238,Attidiya Historic Wetlands,Prehistoric Activity,8000 BC,"Evidence of human activity in wetlands.",6.8500,79.9000
+711,238,Attidiya Historic Wetlands,Kingdom Period Use,1400 AD,"Wetlands used for reed and herbal collection.",6.8500,79.9000
+712,238,Attidiya Historic Wetlands,Declared Sanctuary,1990 AD,"Wetlands protected.",6.8500,79.9000
+
+713,239,Nugegoda Ancient Bo Tree,Planting,400 AD,"Monks planted sacred Bo sapling.",6.8650,79.8940
+714,239,Nugegoda Ancient Bo Tree,Local Festivals,1600 AD,"Annual perahera traditions began.",6.8650,79.8940
+715,239,Nugegoda Ancient Bo Tree,Heritage Listing,2001 AD,"Tree declared protected.",6.8650,79.8940
+
+716,240,Piliyandala Ambalama,Construction,1700 AD,"Shelter for travelers built on old route.",6.8017,79.9225
+717,240,Piliyandala Ambalama,Use in Kingdom Period,1800 AD,"Shelter for cart traders.",6.8017,79.9225
+718,240,Piliyandala Ambalama,Renovation,2000 AD,"Ambalama restored.",6.8017,79.9225
+
+719,241,Kesbewa Raja Maha Vihara,Construction,900 AD,"Historic temple built during medieval era.",6.7833,79.9000
+720,241,Kesbewa Raja Maha Vihara,Buddhist Education Center,1500 AD,"Monastic school operated here.",6.7833,79.9000
+721,241,Kesbewa Raja Maha Vihara,Protection Status,1996 AD,"Temple protected under archaeology ordinance.",6.7833,79.9000
+
+722,242,Bokundara Ancient Stone,Carving Period,1100 AD,"Ancient rock with carved symbols.",6.8000,79.9000
+723,242,Bokundara Ancient Stone,Rediscovery,1955 AD,"Discovered during road expansion.",6.8000,79.9000
+724,242,Bokundara Ancient Stone,Declared Protected,2008 AD,"Stone listed as heritage site.",6.8000,79.9000
+
+725,243,Makumbura Ancient Temple,Construction,500 AD,"Old Buddhist shrine.",6.7900,79.9540
+726,243,Makumbura Ancient Temple,Chola Influence,950 AD,"Temple architecture changed with South Indian style.",6.7900,79.9540
+727,243,Makumbura Ancient Temple,Renovation,1995 AD,"Temple conserved.",6.7900,79.9540
+
+728,244,Kottawa Raja Maha Vihara (Colombo District),Construction,600 AD,"Ancient temple surrounded by forest.",6.8270,79.9685
+729,244,Kottawa Raja Maha Vihara (Colombo District),Local Worship,1500 AD,"Major center for regional festivities.",6.8270,79.9685
+730,244,Kottawa Raja Maha Vihara (Colombo District),Modern Preservation,2005 AD,"Temple protected.",6.8270,79.9685
+
+731,245,Homagama Ancient Well,Construction,700 AD,"Built as irrigation structure.",6.8400,80.0000
+732,245,Homagama Ancient Well,Rural Use,1400 AD,"Used by villagers for farming.",6.8400,80.0000
+733,245,Homagama Ancient Well,Conservation,2000 AD,"Well restored and protected.",6.8400,80.0000
+
+734,246,Padukka Raja Maha Vihara,Construction,800 AD,"Historic Buddhist temple.",6.8333,80.0833
+735,246,Padukka Raja Maha Vihara,Kandyan Era Renovation,1750 AD,"Temple expanded.",6.8333,80.0833
+736,246,Padukka Raja Maha Vihara,Protected Status,1994 AD,"Temple declared archaeological.",6.8333,80.0833
+
+737,247,Hanwella Raja Maha Vihara,Construction,700 AD,"Temple built near historic ferry route.",6.9000,80.0667
+738,247,Hanwella Raja Maha Vihara,Worship Traditions,1600 AD,"Annual poya rituals established.",6.9000,80.0667
+739,247,Hanwella Raja Maha Vihara,Renovation,1990 AD,"Shrine restored.",6.9000,80.0667
+
+740,248,Meegoda Ambalama,Creation,1750 AD,"Shelter created for ox-cart travelers.",6.8400,80.0000
+741,248,Meegoda Ambalama,Community Use,1800 AD,"Used by merchants and pilgrims.",6.8400,80.0000
+742,248,Meegoda Ambalama,Listed Heritage,2003 AD,"Declared as archaeological monument.",6.8400,80.0000
+
+743,249,Godagama Stone Bridge,Construction,1500 AD,"Ancient stone footbridge built during Kandyan period.",6.8450,80.0320
+744,249,Godagama Stone Bridge,Engineering Renovation,1900 AD,"Repaired during British colonization.",6.8450,80.0320
+745,249,Godagama Stone Bridge,Historic Protection,2001 AD,"Declared a protected monument.",6.8450,80.0320
+
+746,250,Malapalla Ancient Temple,Construction,900 AD,"Built in early medieval period.",6.8300,80.0130
+747,250,Malapalla Ancient Temple,Chola Influence,1000 AD,"Temple renovated under South Indian influence.",6.8300,80.0130
+748,250,Malapalla Ancient Temple,Protected Listing,2000 AD,"Temple declared archaeological.",6.8300,80.0130
+
+749,251,Delkanda Raja Maha Vihara,Construction,700 AD,"Ancient temple in Nugegoda region.",6.8460,79.8990
+750,251,Delkanda Raja Maha Vihara,Local Patronage,1500 AD,"Supported by regional chieftains.",6.8460,79.8990
+751,251,Delkanda Raja Maha Vihara,Restoration,2002 AD,"Shrine conserved.",6.8460,79.8990
+
+752,252,Maharagama Ella Ancient Site,Prehistoric Culture,5000 BC,"Stone implements found near waterfall.",6.8460,79.9000
+753,252,Maharagama Ella Ancient Site,Forest Monastery,900 AD,"Caves used for meditation.",6.8460,79.9000
+754,252,Maharagama Ella Ancient Site,Conservation Status,2010 AD,"Declared protected.",6.8460,79.9000
+
+755,253,Dehiwala Purana Viharaya,Construction,600 AD,"One of oldest temples in coastal belt.",6.8600,79.8680
+756,253,Dehiwala Purana Viharaya,Kandyan Renovation,1700 AD,"Temple expanded with new image house.",6.8600,79.8680
+757,253,Dehiwala Purana Viharaya,Historical Listing,1995 AD,"Temple declared archaeological.",6.8600,79.8680
+
+758,254,Karagampitiya Subadrarama,Construction,800 AD,"Ancient Buddhist temple.",6.8530,79.8620
+759,254,Karagampitiya Subadrarama,Colonial Era Murals,1800 AD,"Temple murals influenced by European art.",6.8530,79.8620
+760,254,Karagampitiya Subadrarama,Conservation Work,2005 AD,"Temple preserved.",6.8530,79.8620
+
+761,255,Battaramulla Historic Marshland,Early Settlements,1000 AD,"Ancient communities lived near marsh.",6.9000,79.9500
+762,255,Battaramulla Historic Marshland,Brahmi Pottery Found,200 AD,"Pottery fragments indicate trade.",6.9000,79.9500
+763,255,Battaramulla Historic Marshland,Declared Protected,2012 AD,"Site added to archaeological register.",6.9000,79.9500
+
+764,256,Thalangama Lake Heritage,Construction,500 AD,"Built as part of ancient irrigation.",6.9060,79.9390
+765,256,Thalangama Lake Heritage,Medieval Expansion,1200 AD,"Lake expanded during Kingdom era.",6.9060,79.9390
+766,256,Thalangama Lake Heritage,Declared Sanctuary,2006 AD,"Wetland protected.",6.9060,79.9390
+
+767,257,Athurugiriya Prehistoric Cave,Prehistoric Inhabitants,8000 BC,"Stone tools found.",6.8850,79.9770
+768,257,Athurugiriya Prehistoric Cave,Scientific Excavation,1985 AD,"Excavations revealed ancient burials.",6.8850,79.9770
+769,257,Athurugiriya Prehistoric Cave,Protected Status,1998 AD,"Cave declared archaeological.",6.8850,79.9770
+
+770,258,Hokandara Historic Village,Formation,1200 AD,"Village established during Dambadeniya era.",6.9000,79.9520
+771,258,Hokandara Historic Village,Forest Monastery,900 AD,"Monks meditated in caves nearby.",6.9000,79.9520
+772,258,Hokandara Historic Village,Heritage Recognition,2010 AD,"Village recognized for historical value.",6.9000,79.9520
+
+773,259,Madiwela Ancient Temple,Construction,700 AD,"Old Buddhist temple.",6.8900,79.9300
+774,259,Madiwela Ancient Temple,Colonial Period Use,1800 AD,"Temple served as refuge during unrest.",6.8900,79.9300
+775,259,Madiwela Ancient Temple,Restoration,2005 AD,"Temple renovated.",6.8900,79.9300
+
+776,260,Kotte Parliament Archaeological Ruins,Ancient Capital,1400 AD,"Kotte served as medieval capital.",6.9000,79.9000
+777,260,Kotte Parliament Archaeological Ruins,Portuguese Destruction,1505 AD,"City heavily damaged.",6.9000,79.9000
+778,260,Kotte Parliament Archaeological Ruins,Excavations,2000 AD,"Archaeologists found city layout.",6.9000,79.9000
+
+779,261,Kotte Rajamaha Vihara,Construction,1300 AD,"Temple built by Alakeshwara kings.",6.8920,79.9030
+780,261,Kotte Rajamaha Vihara,Expansion,1600 AD,"Expanded with Kandyan roof structures.",6.8920,79.9030
+781,261,Kotte Rajamaha Vihara,Declared Heritage,1999 AD,"Listed as archaeological.",6.8920,79.9030
+
+782,262,Beddagana Historic Wetland,Early Human Use,2000 BC,"Evidence of prehistoric life.",6.9030,79.9200
+783,262,Beddagana Historic Wetland,Kingdom Era Irrigation,1200 AD,"Water management system created.",6.9030,79.9200
+784,262,Beddagana Historic Wetland,Declared Sanctuary,2015 AD,"Protected by environmental authority.",6.9030,79.9200
+
+785,263,Pita Kotte Ancient City Wall,Construction,1400 AD,"Outer defensive wall built.",6.8950,79.9030
+786,263,Pita Kotte Ancient City Wall,Portuguese Conflict,1500 AD,"Walls damaged during battles.",6.8950,79.9030
+787,263,Pita Kotte Ancient City Wall,Conservation,2012 AD,"Sections restored.",6.8950,79.9030
+
+788,264,Kotte Alakeshwara Tomb,Construction,1400 AD,"Tomb of ancient minister Alakeshwara.",6.8955,79.9040
+789,264,Kotte Alakeshwara Tomb,Rediscovery,1920 AD,"Tomb identified by archaeologists.",6.8955,79.9040
+790,264,Kotte Alakeshwara Tomb,Declared Protected,2000 AD,"Protected tomb.",6.8955,79.9040
+
+791,265,Kotte Ethul Kotte Temple,Construction,1300 AD,"Temple built during Kotte era.",6.8950,79.9055
+792,265,Kotte Ethul Kotte Temple,Royal Patronage,1450 AD,"Supported by Kotte kings.",6.8950,79.9055
+793,265,Kotte Ethul Kotte Temple,Restoration,2003 AD,"Temple conserved.",6.8950,79.9055
+
+794,266,Pepiliyana Sunethradevi Pirivena,Establishment,1300 AD,"Major educational monastic center.",6.8600,79.8800
+795,266,Pepiliyana Sunethradevi Pirivena,Buddhist Scholarship,1500 AD,"Center of Sinhala literature.",6.8600,79.8800
+796,266,Pepiliyana Sunethradevi Pirivena,Protection,2004 AD,"Declared archaeological.",6.8600,79.8800
+
+797,267,Boralesgamuwa Raja Maha Viharaya,Construction,600 AD,"One of oldest temples in region.",6.8200,79.9100
+798,267,Boralesgamuwa Raja Maha Viharaya,Reconstruction,1600 AD,"Temple rebuilt under Kandyan rule.",6.8200,79.9100
+799,267,Boralesgamuwa Raja Maha Viharaya,Heritage Protection,1997 AD,"Declared archaeological.",6.8200,79.9100
+
+800,268,Pepiliyana Cave Temple,Construction,700 AD,"Cave shrine established.",6.8570,79.8780
+
+801,268,Pepiliyana Cave Temple,Kandyan Paintings,1700 AD,"Frescoes added during Kandyan revival.",6.8570,79.8780
+802,268,Pepiliyana Cave Temple,Heritage Listing,1998 AD,"Temple declared protected.",6.8570,79.8780
+
+803,269,Kohuwala Ancient Bo Tree,Planting,300 AD,"Monks planted sacred Bo sapling.",6.8600,79.8800
+804,269,Kohuwala Ancient Bo Tree,Ritual Offerings,1500 AD,"Local rituals established under Sitawaka kings.",6.8600,79.8800
+805,269,Kohuwala Ancient Bo Tree,Protected Status,2005 AD,"Tree listed as protected heritage.",6.8600,79.8800
+
+806,270,Kalubowila Historic Pond,Construction,900 AD,"Pond built for irrigation and rituals.",6.8630,79.8700
+807,270,Kalubowila Historic Pond,Colonial Renovation,1800 AD,"Repaired during British era.",6.8630,79.8700
+808,270,Kalubowila Historic Pond,Declared Protected,2010 AD,"Pond classified under archaeology.",6.8630,79.8700
+
+809,271,Wellawatte Historic Coastal Settlement,Formation,600 AD,"Early Tamil-Sinhala settlement site.",6.8750,79.8650
+810,271,Wellawatte Historic Coastal Settlement,Maritime Trade,1500 AD,"Export of pearls and conch shells flourished.",6.8750,79.8650
+811,271,Wellawatte Historic Coastal Settlement,Protection,2008 AD,"Declared heritage coastline.",6.8750,79.8650
+
+812,272,Bambalapitiya Ancient Shrine,Construction,700 AD,"Small Buddhist shrine constructed.",6.8880,79.8540
+813,272,Bambalapitiya Ancient Shrine,Cultural Significance,1800 AD,"Used by traders and fishing communities.",6.8880,79.8540
+814,272,Bambalapitiya Ancient Shrine,Conservation,2003 AD,"Preserved by archaeology department.",6.8880,79.8540
+
+815,273,Havelock Town Archaeological Mound,Formation,200 BC,"Pottery and tools found from pre-Anuradhapura era.",6.8900,79.8600
+816,273,Havelock Town Archaeological Mound,Excavation,1975 AD,"Excavations reveal settlement layers.",6.8900,79.8600
+817,273,Havelock Town Archaeological Mound,Protection,2001 AD,"Site officially protected.",6.8900,79.8600
+
+818,274,Kollupitiya Dutch Governor House,Construction,1680 AD,"Built by Dutch for administrative use.",6.9150,79.8550
+819,274,Kollupitiya Dutch Governor House,British Conversion,1805 AD,"Converted into rest house.",6.9150,79.8550
+820,274,Kollupitiya Dutch Governor House,Heritage Listing,2004 AD,"Declared protected building.",6.9150,79.8550
+
+821,275,Galle Face Military Fortification,Construction,1505 AD,"Portuguese built coastal defense walls.",6.9120,79.8460
+822,275,Galle Face Military Fortification,Dutch Reinforcement,1650 AD,"Walls expanded and reinforced.",6.9120,79.8460
+823,275,Galle Face Military Fortification,British Demolition,1870 AD,"Parts removed for urban expansion.",6.9120,79.8460
+
+824,276,Slave Island Malay Heritage Zone,Moor-Malay Settlement,1700 AD,"Malay soldiers settled in area.",6.9170,79.8530
+825,276,Slave Island Malay Heritage Zone,Colonial Influence,1800 AD,"British recruited Malay regiment.",6.9170,79.8530
+826,276,Slave Island Malay Heritage Zone,Cultural Revival,2000 AD,"Area listed for cultural protection.",6.9170,79.8530
+
+827,277,Colombo Fort Lighthouse,Construction,1829 AD,"British built lighthouse and clock tower.",6.9330,79.8430
+828,277,Colombo Fort Lighthouse,Signal Station Use,1900 AD,"Used as maritime signal tower.",6.9330,79.8430
+829,277,Colombo Fort Lighthouse,Heritage Status,2015 AD,"Declared heritage monument.",6.9330,79.8430
+
+830,278,Colombo Fort Bastion Ruins,Portuguese Construction,1518 AD,"First Portuguese defensive bastion.",6.9340,79.8420
+831,278,Colombo Fort Bastion Ruins,Dutch Expansion,1658 AD,"Expanded fortification.",6.9340,79.8420
+832,278,Colombo Fort Bastion Ruins,Archaeological Survey,2010 AD,"Structures rediscovered underground.",6.9340,79.8420
+
+833,279,Colombo Kotuwa Ancient Market,Formation,1600 AD,"Historic trading market inside fort.",6.9345,79.8435
+834,279,Colombo Kotuwa Ancient Market,British Restructuring,1800 AD,"Market reorganized by colonial rulers.",6.9345,79.8435
+835,279,Colombo Kotuwa Ancient Market,Heritage Listing,2012 AD,"Market declared archaeological.",6.9345,79.8435
+
+836,280,Dematagoda Historic Settlement,Early Formation,1200 AD,"Agricultural community established.",6.9300,79.8800
+837,280,Dematagoda Historic Settlement,Colonial Rail Impact,1864 AD,"Railway construction changed settlement pattern.",6.9300,79.8800
+838,280,Dematagoda Historic Settlement,Protection,2008 AD,"Heritage assessment completed.",6.9300,79.8800
+
+839,281,Maradana Mosque Heritage Site,Construction,1860 AD,"One of oldest mosques in Colombo region.",6.9270,79.8630
+840,281,Maradana Mosque Heritage Site,Cultural Hub,1900 AD,"Center for Islamic education.",6.9270,79.8630
+841,281,Maradana Mosque Heritage Site,Renovation,1999 AD,"Mosque restored.",6.9270,79.8630
+
+842,282,Technical College Colonial Building,Construction,1893 AD,"British built vocational training college.",6.9260,79.8610
+843,282,Technical College Colonial Building,Engineering Education,1920 AD,"Major educational hub.",6.9260,79.8610
+844,282,Technical College Colonial Building,Heritage Protection,2005 AD,"Listed as protected building.",6.9260,79.8610
+
+845,283,Ananda College Monument Site,Establishment,1886 AD,"Founded by Buddhist Theosophical Society.",6.9135,79.8660
+846,283,Ananda College Monument Site,Nationalist Movement,1920 AD,"School became hub of independence activism.",6.9135,79.8660
+847,283,Ananda College Monument Site,Centenary Celebration,1986 AD,"School completed 100 years.",6.9135,79.8660
+
+848,284,Viharamahadevi Park Archaeological Site,Prehistoric Artifacts,1500 BC,"Stone tools found under soil layers.",6.9148,79.8612
+849,284,Viharamahadevi Park Archaeological Site,Colonial Landscaping,1860 AD,"British redesigned area as public park.",6.9148,79.8612
+850,284,Viharamahadevi Park Archaeological Site,Modern Protection,2010 AD,"Site assessed by archaeology department.",6.9148,79.8612
+
+851,285,Independence Memorial Hall,Construction,1948 AD,"Built to commemorate Sri Lanka’s independence.",6.9022,79.8614
+852,285,Independence Memorial Hall,National Ceremonies,1950 AD,"Used for major state events.",6.9022,79.8614
+853,285,Independence Memorial Hall,Heritage Listing,2015 AD,"Declared heritage monument.",6.9022,79.8614
+
+854,286,Thimbirigasyaya Old Temple,Construction,900 AD,"Ancient forest monastery.",6.8940,79.8700
+855,286,Thimbirigasyaya Old Temple,Kandyan Murals,1700 AD,"Murals painted during Kandyan era.",6.8940,79.8700
+856,286,Thimbirigasyaya Old Temple,Conservation Work,2008 AD,"Temple restored.",6.8940,79.8700
+
+857,287,Havelock Racecourse Ruins,Construction,1893 AD,"British built horse racing track.",6.8900,79.8700
+858,287,Havelock Racecourse Ruins,Racing Era,1900 AD,"Site used for elite sporting events.",6.8900,79.8700
+859,287,Havelock Racecourse Ruins,Heritage Study,2012 AD,"Site identified for potential restoration.",6.8900,79.8700
+
+860,288,Kirulapone Ancient Bo Shrine,Planting,500 AD,"Sacred Bo tree planted.",6.8800,79.8700
+861,288,Kirulapone Ancient Bo Shrine,Local Worship,1400 AD,"Annual Bo festival started.",6.8800,79.8700
+862,288,Kirulapone Ancient Bo Shrine,Declared Heritage,2005 AD,"Site protected.",6.8800,79.8700
+
+863,289,Narahenpita Old Railway Colony,Construction,1864 AD,"Settlement formed around first railway line.",6.9000,79.8800
+864,289,Narahenpita Old Railway Colony,Railway Expansion,1900 AD,"Houses built for railway workers.",6.9000,79.8800
+865,289,Narahenpita Old Railway Colony,Recognition,2015 AD,"Colony recognized for historical value.",6.9000,79.8800
+
+866,290,Jana Kala Kendraya Historic Grounds,Cultural Events,1950 AD,"Ground used for national arts festivals.",6.8945,79.9000
+867,290,Jana Kala Kendraya Historic Grounds,Educational Sessions,1970 AD,"Venue for traditional dance education.",6.8945,79.9000
+868,290,Jana Kala Kendraya Historic Grounds,Renovation,2000 AD,"Cultural complex modernized.",6.8945,79.9000
+
+869,291,Borella Cemetery Colonial Section,Establishment,1860 AD,"British cemetery section created.",6.9130,79.8800
+870,291,Borella Cemetery Colonial Section,War Burials,1940 AD,"WWII soldiers buried here.",6.9130,79.8800
+871,291,Borella Cemetery Colonial Section,Heritage Documentation,2008 AD,"Area documented for heritage value.",6.9130,79.8800
+
+872,292,Kanatte Prehistoric Mound,Formation,3000 BC,"Archaeologists found pre-historic bones.",6.9100,79.8850
+873,292,Kanatte Prehistoric Mound,Scientific Excavation,1999 AD,"Excavation uncovered burial pits.",6.9100,79.8850
+874,292,Kanatte Prehistoric Mound,Preservation,2007 AD,"Site protected.",6.9100,79.8850
+
+875,293,Rajagiriya Ancient Ferry Point,Use,1400 AD,"Used to cross Diyawanna Oya.",6.9130,79.9050
+876,293,Rajagiriya Ancient Ferry Point,Colonial Era,1800 AD,"Ferry operated under British supervision.",6.9130,79.9050
+877,293,Rajagiriya Ancient Ferry Point,Heritage Declaration,2003 AD,"Site protected.",6.9130,79.9050
+
+878,294,Obeysekarapura Forest Monastery,Establishment,800 AD,"Cave-based meditation center.",6.9150,79.9150
+879,294,Obeysekarapura Forest Monastery,Kandyan Era Use,1700 AD,"Used by traveling monks.",6.9150,79.9150
+880,294,Obeysekarapura Forest Monastery,Listed Heritage,2005 AD,"Added to archaeology register.",6.9150,79.9150
+
+881,295,Angoda Ancient Temple,Construction,600 AD,"Oldest temple in Angoda region.",6.9300,79.9000
+882,295,Angoda Ancient Temple,Colonial Remodeling,1880 AD,"Temple expanded with new buildings.",6.9300,79.9000
+883,295,Angoda Ancient Temple,Heritage Status,2012 AD,"Temple declared archaeological.",6.9300,79.9000
+
+884,296,Mulleriyawa Historical Site,Settlement,1000 AD,"Ancient riverside settlement.",6.9340,79.9080
+885,296,Mulleriyawa Historical Site,Colonial Era Battle,1685 AD,"Area involved in Portuguese-Kandyan skirmishes.",6.9340,79.9080
+886,296,Mulleriyawa Historical Site,Preservation,2001 AD,"Declared protected.",6.9340,79.9080
+
+887,297,IDH Old Hospital Colonial Wing,Construction,1910 AD,"Established during British rule.",6.9330,79.9180
+888,297,IDH Old Hospital Colonial Wing,Medical Advancement,1950 AD,"Used for infectious disease research.",6.9330,79.9180
+889,297,IDH Old Hospital Colonial Wing,Renovation,2005 AD,"Colonial building preserved.",6.9330,79.9180
+
+890,298,Kadawatha Ancient Bo Shrine,Planting,400 AD,"Ancient sacred Bo tree planted.",7.0000,79.9500
+891,298,Kadawatha Ancient Bo Shrine,Worship Rituals,1600 AD,"Local rituals continue for centuries.",7.0000,79.9500
+892,298,Kadawatha Ancient Bo Shrine,Protected,2010 AD,"Listed heritage.",7.0000,79.9500
+
+893,299,Kadawatha Ambalama,Construction,1700 AD,"Rest shelter on Colombo-Kandy road.",7.0020,79.9520
+894,299,Kadawatha Ambalama,Colonial Era Use,1800 AD,"Used by bullock cart travelers.",7.0020,79.9520
+895,299,Kadawatha Ambalama,Renovation,2002 AD,"Restoration completed.",7.0020,79.9520
+
+896,300,Ragama Old Railway Station,Construction,1864 AD,"One of earliest railway stops in Ceylon.",7.0220,79.9490
+897,300,Ragama Old Railway Station,Expansion,1900 AD,"Station expanded under British.",7.0220,79.9490
+898,300,Ragama Old Railway Station,Preservation,2018 AD,"Declared protected.",7.0220,79.9490
+
+899,301,Wattala Historic Church,Construction,1800 AD,"Built by early Catholic communities.",6.9900,79.8800
+900,301,Wattala Historic Church,Community Growth,1900 AD,"Church became center of local education.",6.9900,79.8800
+
+901,301,Wattala Historic Church,Heritage Listing,2010 AD,"Church declared protected.",6.9900,79.8800
+
+902,302,Dikovita Ancient Fishing Port,Formation,1200 AD,"Port served medieval fishing fleets.",7.0010,79.8730
+903,302,Dikovita Ancient Fishing Port,Colonial Activity,1700 AD,"Used by Portuguese traders.",7.0010,79.8730
+904,302,Dikovita Ancient Fishing Port,Modern Protection,2015 AD,"Declared heritage coastline.",7.0010,79.8730
+
+905,303,Hendala Dutch Church,Construction,1675 AD,"Built by Dutch missionaries.",6.9905,79.8710
+906,303,Hendala Dutch Church,Religious Expansion,1750 AD,"Congregation rapidly expanded.",6.9905,79.8710
+907,303,Hendala Dutch Church,Conservation,2008 AD,"Restored and protected.",6.9905,79.8710
+
+908,304,Hendala Leprosy Hospital,Construction,1708 AD,"Oldest hospital in Sri Lanka.",6.9870,79.8750
+909,304,Hendala Leprosy Hospital,Medical Era,1800 AD,"Pioneered clinical treatments.",6.9870,79.8750
+910,304,Hendala Leprosy Hospital,Heritage Recognition,2005 AD,"Listed as protected medical heritage.",6.9870,79.8750
+
+911,305,Mabola Ancient Temple,Construction,900 AD,"Forest monks established early monastery.",7.0030,79.8800
+912,305,Mabola Ancient Temple,Buddhist Rituals,1500 AD,"Annual Perahera initiated.",7.0030,79.8800
+913,305,Mabola Ancient Temple,Archaeological Protection,2012 AD,"Declared protected.",7.0030,79.8800
+
+914,306,Walpola Ancient Pond,Construction,1000 AD,"Built for irrigation and rituals.",7.0200,79.8700
+915,306,Walpola Ancient Pond,British Mapping,1850 AD,"Included in colonial land maps.",7.0200,79.8700
+916,306,Walpola Ancient Pond,Protection,2001 AD,"Recognized as archaeological heritage.",7.0200,79.8700
+
+917,307,Welisara Naval Camp Colonial Block,Construction,1920 AD,"Built by British for naval logistics.",7.0340,79.8900
+918,307,Welisara Naval Camp Colonial Block,WWII Use,1942 AD,"Used during world war operations.",7.0340,79.8900
+919,307,Welisara Naval Camp Colonial Block,Conservation,2015 AD,"Restoration and listing.",7.0340,79.8900
+
+920,308,Mahabage Ancient Ambalama,Construction,1700 AD,"Rest shelter on ancient route.",7.0500,79.9000
+921,308,Mahabage Ancient Ambalama,Colonial Usage,1850 AD,"Used by traders on Colombo–Negombo road.",7.0500,79.9000
+922,308,Mahabage Ancient Ambalama,Preservation,2002 AD,"Declared heritage rest stop.",7.0500,79.9000
+
+923,309,Kandana Old Temple,Construction,800 AD,"Early monastic site.",7.0450,79.9200
+924,309,Kandana Old Temple,Religious Development,1600 AD,"Temple expanded with new structures.",7.0450,79.9200
+925,309,Kandana Old Temple,Heritage Status,2011 AD,"Declared archaeological site.",7.0450,79.9200
+
+926,310,Rilaulla Ancient Stone Bridge,Construction,1300 AD,"Medieval stone bridge built.",7.0600,79.9350
+927,310,Rilaulla Ancient Stone Bridge,Colonial Documentation,1800 AD,"Listed in British survey maps.",7.0600,79.9350
+928,310,Rilaulla Ancient Stone Bridge,Preservation,2010 AD,"Protected by archaeology department.",7.0600,79.9350
+
+929,311,Ja-Ela Ancient Bo Tree,Planting,500 AD,"Ancient sacred Bo tree planted.",7.0700,79.8900
+930,311,Ja-Ela Ancient Bo Tree,Local Festivals,1400 AD,"Village rituals established.",7.0700,79.8900
+931,311,Ja-Ela Ancient Bo Tree,Heritage Listing,2003 AD,"Tree declared protected.",7.0700,79.8900
+
+932,312,Ekkala Historic Shrine,Construction,900 AD,"Shrine built by monks and villagers.",7.0800,79.8700
+933,312,Ekkala Historic Shrine,Expansion,1600 AD,"Structures expanded with stone pillars.",7.0800,79.8700
+934,312,Ekkala Historic Shrine,Protection,2018 AD,"Listed under heritage.",7.0800,79.8700
+
+935,313,Seeduwa Ancient Settlement,Formation,1200 AD,"Agricultural community began.",7.1300,79.8700
+936,313,Seeduwa Ancient Settlement,Colonial Interaction,1800 AD,"Dutch interacted with farming colonies.",7.1300,79.8700
+937,313,Seeduwa Ancient Settlement,Documentation,2006 AD,"Settlement identified as heritage.",7.1300,79.8700
+
+938,314,Kotugoda Old Church,Construction,1840 AD,"Catholic mission church established.",7.1500,79.9000
+939,314,Kotugoda Old Church,Religious Growth,1900 AD,"Parish expanded with schooling system.",7.1500,79.9000
+940,314,Kotugoda Old Church,Conservation,2012 AD,"Church preserved.",7.1500,79.9000
+
+941,315,Divulapitiya Ancient Temple,Construction,600 AD,"One of oldest temples in Gampaha region.",7.2000,79.9800
+942,315,Divulapitiya Ancient Temple,Buddhist Center,1500 AD,"Flourished as regional monastery.",7.2000,79.9800
+943,315,Divulapitiya Ancient Temple,Archaeological Listing,2005 AD,"Declared heritage monument.",7.2000,79.9800
+
+944,316,Badalgama Ancient Devalaya,Construction,1100 AD,"Shrine dedicated to guardian deities.",7.2500,79.9800
+945,316,Badalgama Ancient Devalaya,Religious Functions,1600 AD,"Annual rituals and offerings.",7.2500,79.9800
+946,316,Badalgama Ancient Devalaya,Heritage Protection,2008 AD,"Listed by archaeology dept.",7.2500,79.9800
+
+947,317,Minuwangoda Ambalama,Construction,1700 AD,"Rest house for travelers and pilgrims.",7.1800,79.9500
+948,317,Minuwangoda Ambalama,Colonial Era Use,1850 AD,"Served as rest point for bullock carts.",7.1800,79.9500
+949,317,Minuwangoda Ambalama,Restoration,2003 AD,"Ambalama restored.",7.1800,79.9500
+
+950,318,Katana Ancient Church,Construction,1500 AD,"Portuguese church established.",7.2650,79.8600
+951,318,Katana Ancient Church,Expansion,1700 AD,"Expanded by local Christian community.",7.2650,79.8600
+952,318,Katana Ancient Church,Heritage Recognition,2001 AD,"Protected as cultural heritage.",7.2650,79.8600
+
+953,319,Negombo Dutch Fort,Construction,1672 AD,"Built by Dutch after capturing from Portuguese.",7.2080,79.8380
+954,319,Negombo Dutch Fort,Major Military Use,1700 AD,"Served as stronghold on western coast.",7.2080,79.8380
+955,319,Negombo Dutch Fort,British Conversion,1796 AD,"Used as prison by British.",7.2080,79.8380
+
+956,320,Negombo Hamilton Canal,Construction,1802 AD,"Built by British for cinnamon transport.",7.2300,79.8400
+957,320,Negombo Hamilton Canal,Major Trade Route,1850 AD,"Used to transport goods between Colombo and Puttalam.",7.2300,79.8400
+958,320,Negombo Hamilton Canal,Restoration,2012 AD,"Canal renovated for tourism.",7.2300,79.8400
+
+959,321,Negombo Old Dutch Cemetery,Construction,1700 AD,"Dutch burial site established.",7.2200,79.8400
+960,321,Negombo Old Dutch Cemetery,Historical Inscriptions,1750 AD,"Unique Dutch stone inscriptions preserved.",7.2200,79.8400
+961,321,Negombo Old Dutch Cemetery,Restoration,2018 AD,"Site preserved and documented.",7.2200,79.8400
+
+962,322,Chilaw Historic Munneswaram Temple,Construction,1000 AD,"Ancient Hindu temple revered by kings.",7.5750,79.7950
+963,322,Chilaw Historic Munneswaram Temple,Portuguese Destruction,1580 AD,"Temple destroyed and rebuilt later.",7.5750,79.7950
+964,322,Chilaw Historic Munneswaram Temple,Kandyan Alliance,1660 AD,"Support from Kandyan kings.",7.5750,79.7950
+
+965,323,Wennappuwa Old Roman Church,Construction,1500 AD,"Built by early Portuguese settlers.",7.5000,79.8400
+966,323,Wennappuwa Old Roman Church,Community Growth,1850 AD,"Important parish during colonial times.",7.5000,79.8400
+967,323,Wennappuwa Old Roman Church,Preservation,2010 AD,"Church restored.",7.5000,79.8400
+
+968,324,Udappuwa Ancient Coastal Shrine,Construction,1200 AD,"Shrine built by coastal communities.",7.7000,79.8500
+969,324,Udappuwa Ancient Coastal Shrine,Colonial Mapping,1700 AD,"Appears in early maritime maps.",7.7000,79.8500
+970,324,Udappuwa Ancient Coastal Shrine,Protection,2012 AD,"Declared heritage.",7.7000,79.8500
+
+971,325,Marawila Ancient Bo Tree,Planting,700 AD,"Village monks planted sacred Bo tree.",7.4700,79.8600
+972,325,Marawila Ancient Bo Tree,Local Worship,1500 AD,"Rituals recorded for centuries.",7.4700,79.8600
+973,325,Marawila Ancient Bo Tree,Heritage Assessment,2006 AD,"Tree documented by archaeology.",7.4700,79.8600
+
+974,326,Puttalam Historic Mosque,Construction,1500 AD,"Muslim traders built original mosque.",8.0330,79.8350
+975,326,Puttalam Historic Mosque,Arab Trade Influence,1700 AD,"Mosque linked to Arab trading community.",8.0330,79.8350
+976,326,Puttalam Historic Mosque,Renovation,2000 AD,"Site restored and modernized.",8.0330,79.8350
+
+977,327,Puttalam Ancient Salterns,Construction,1400 AD,"Ancient salt production area.",8.0300,79.9000
+978,327,Puttalam Ancient Salterns,Colonial Salt Trade,1800 AD,"British expanded salt trade.",8.0300,79.9000
+979,327,Puttalam Ancient Salterns,Heritage Protection,2015 AD,"Declared archaeological landscape.",8.0300,79.9000
+
+980,328,Madampe Ancient Devalaya,Construction,1100 AD,"Shrine dedicated to regional deity.",7.6400,79.9000
+981,328,Madampe Ancient Devalaya,Ritual Offerings,1600 AD,"Maniyo ceremony introduced.",7.6400,79.9000
+982,328,Madampe Ancient Devalaya,Preservation,2008 AD,"Protected monument.",7.6400,79.9000
+
+983,329,Nattandiya Old Temple,Construction,900 AD,"Ancient Buddhist temple founded.",7.4800,79.8900
+984,329,Nattandiya Old Temple,Expansion,1500 AD,"Temple expanded under regional kings.",7.4800,79.8900
+985,329,Nattandiya Old Temple,Heritage Listing,2004 AD,"Temple protected.",7.4800,79.8900
+
+986,330,Kalpitiya Dutch Fort,Construction,1667 AD,"Dutch built fort for maritime control.",8.7620,79.7670
+987,330,Kalpitiya Dutch Fort,Mercantile Trade,1700 AD,"Major trading post of VOC.",8.7620,79.7670
+988,330,Kalpitiya Dutch Fort,British Use,1795 AD,"Used as British military outpost.",8.7620,79.7670
+
+989,331,Kalpitiya Catholic Church,Construction,1676 AD,"Church built by missionaries.",8.7600,79.7600
+990,331,Kalpitiya Catholic Church,Community Center,1800 AD,"Center of regional Catholic activity.",8.7600,79.7600
+991,331,Kalpitiya Catholic Church,Restoration,2009 AD,"Heritage restoration completed.",8.7600,79.7600
+
+992,332,Wilpattu Ancient Settlements,Formation,500 BC,"One of oldest settlements in north-west SL.",8.4500,79.9500
+993,332,Wilpattu Ancient Settlements,Forest Monasteries,200 AD,"Monastic caves built deep in forest.",8.4500,79.9500
+994,332,Wilpattu Ancient Settlements,Archaeological Survey,1992 AD,"Excavations revealed artifacts.",8.4500,79.9500
+
+995,333,Sacred Madhu Church,Construction,1670 AD,"Catholic shrine built in Mannar.",8.9670,79.9080
+996,333,Sacred Madhu Church,Refuge Centre,1990 AD,"Used as refuge during conflict.",8.9670,79.9080
+997,333,Sacred Madhu Church,Pilgrimage Revival,2010 AD,"Pilgrimage activities revived.",8.9670,79.9080
+
+998,334,Talaimannar Pier,Construction,1914 AD,"Constructed for ferry link to India.",9.0660,79.7350
+999,334,Talaimannar Pier,Indian Ferry Service,1914 AD,"Boat service between SL–India began.",9.0660,79.7350
+1000,334,Talaimannar Pier,Heritage Preservation,2017 AD,"Pier recognized as maritime heritage.",9.0660,79.7350

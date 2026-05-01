@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "place": "Sigiriya",
+    "event": "Sigiriya Kingdom",
+    "year": "477-495",
+    "text": "Sigiriya is a rock fortress built by King Kashyapa. It is famous for frescoes and advanced water gardens."
+  },
+  {
+    "id": 1,
+    "place": "Kandy",
+    "event": "Sacred Tooth Relic Arrival",
+    "year": "310-320",
+    "text": "The Sacred Tooth Relic was brought to Sri Lanka from India. It became a symbol of royal authority in Kandy."
+  },
+  {
+    "id": 2,
+    "place": "Galle",
+    "event": "Galle Fort Dutch Period",
+    "year": "1640-1796",
+    "text": "Galle Fort was built by the Portuguese and expanded by the Dutch. It is a UNESCO World Heritage Site with colonial architecture."
+  },
+  {
+    "id": 3,
+    "place": "Anuradhapura",
+    "event": "Anuradhapura Golden Age",
+    "year": "380-1017",
+    "text": "Anuradhapura was a thriving capital with great monasteries. The city grew into a center for Buddhism and architecture."
+  }
+]

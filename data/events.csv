@@ -1,0 +1,5 @@
+event_id,name,site,latitude,longitude,start_year,end_year,tags,Description
+1,Sigiriya Kingdom,Sigiriya,7.9570,80.7603,477,495,"architecture,culture","Sigiriya is a rock fortress built by King Kashyapa. It is famous for frescoes and advanced water gardens."
+2,Sacred Tooth Relic Arrival,Kandy,7.2906,80.6337,310,320,"religion,culture","The Sacred Tooth Relic was brought to Sri Lanka from India. It became a symbol of royal authority in Kandy."
+3,Galle Fort Dutch Period,Galle,6.0329,80.2170,1640,1796,"architecture,battle","Galle Fort was built by the Portuguese and expanded by the Dutch. It is a UNESCO World Heritage Site with colonial architecture."
+4,Anuradhapura Golden Age,Anuradhapura,8.3114,80.4037,380,1017,"religion,architecture","Anuradhapura was a thriving capital with great monasteries. The city grew into a center for Buddhism and architecture."
